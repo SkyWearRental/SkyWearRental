@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="../images/logo/logo_name.png">
+    <title>SkyWear Rental</title>
+    <link rel="stylesheet" href="../css/start.css">
+    <link rel="stylesheet" href="../css/auto-complete.css">
+    <script src="https://kit.fontawesome.com/0d045f7163.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="card">
+        <div class="card-header">
+            <img class="logo" src="../images/logo/logo_name.png">
+        </div>
+
+        <div class="card-content">
+            <div class="forms-container">
+                <div class="forms">
+                    <div class="form" id="destination-form">
+                        <h2>Search with destination name</h2>
+                        <div class="input-row">
+                            <span class="form-label">Where are you going?</span>
+                            <div class="auto-complete-container">
+                                <input class="form-input destination-input" id="destination-name" type="text" placeholder="Ex: Lisbon"  autocomplete="off" required>
+                                <div id="autocomplete-list" class="autocomplete-list"></div>
+                            </div>
+                            <span id="warning">We don't have clothes there yet..</span>
+                        </div>
+                    </div>
+                    <p id="link">I have a flight number</p>
+                </div>
+                <button class="submit-button destination-sub-btn" id="submit-button"></button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/destination-name.js"></script>
+</body>
+</html>

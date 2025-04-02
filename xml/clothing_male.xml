@@ -1,0 +1,1444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<clothing>
+    <brands>
+        <brand name="+351">
+            <type name="Jackets">
+                <item>
+                    <id>1</id>
+                    <name>JACKET CANVAS SPECIAL EDITION BIG SHARK</name>
+                    <description>Description of JACKET CANVAS SPECIAL EDITION BIG SHARK</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.51.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.57.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.04.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.16.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.24.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.31.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>Jacket la dolce vita</name>
+                    <description>Description of Jacket la dolce vita</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.28.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.38.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.50.png</image>
+                        <image>../images/clothes/Male/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.42.00.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Pants">
+                <item>
+                    <id>3</id>
+                    <name>PANTS CORDS MECCA</name>
+                    <description>Description of PANTS CORDS MECCA</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.07.png</image>
+                        <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.15.png</image>
+                        <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.35.png</image>
+                        <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.48.png</image>
+                        <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.26.png</image>
+                        <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.40.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>4</id>
+                    <name>Pants la dolce vita</name>
+                    <description>Description of Pants la dolce vita</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.21.png</image>
+                        <image>../images/clothes/Male/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.29.png</image>
+                        <image>../images/clothes/Male/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.36.png</image>
+                        <image>../images/clothes/Male/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.41.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>5</id>
+                    <name>SWEATPANTS CHARCOAL</name>
+                    <description>Description of SWEATPANTS CHARCOAL</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.44.55.png</image>
+                        <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.10.png</image>
+                        <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.23.png</image>
+                        <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.29.png</image>
+                        <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.49.28.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Shorts">
+                <item>
+                    <id>6</id>
+                    <name>Shorts</name>
+                    <description>Description of Shorts</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.20.png</image>
+                        <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.27.png</image>
+                        <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.32.png</image>
+                        <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.47.png</image>
+                        <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.53.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>WALKSHORTS LEOPARD GREEN</name>
+                    <description>Description of WALKSHORTS LEOPARD GREEN</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.31.png</image>
+                        <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.41.png</image>
+                        <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.51.png</image>
+                        <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.56.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Sweaters">
+                <item>
+                    <id>8</id>
+                    <name>Hoodie Cru</name>
+                    <description>Description of Hoodie Cru</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.05.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.16.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.26.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.47.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.40.04.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.40.11.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>9</id>
+                    <name>Sweatshirt Zip Stoned</name>
+                    <description>Description of Sweatshirt Zip Stoned</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.50.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.56.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.14.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.27.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.38.png</image>
+                        <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.46.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="T-Shirts">
+                <item>
+                    <id>10</id>
+                    <name>Graphic T-Shirt</name>
+                    <description>Description of Graphic T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.15.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.29.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.43.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.19.12.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>11</id>
+                    <name>LONG SLEEVE TERRY STONED</name>
+                    <description>Description of LONG SLEEVE TERRY STONED</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.43.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.52.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.00.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.37.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.55.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>12</id>
+                    <name>Long Sleeve Striped T-Shirt</name>
+                    <description>Description of Long Sleeve Striped T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.40.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.47.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.55.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>13</id>
+                    <name>North Atlantic T-Shirt</name>
+                    <description>Description of North Atlantic T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.15.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.22.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.37.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>14</id>
+                    <name>Ocean Life T-Shirt</name>
+                    <description>Description of Ocean Life T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.07.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.20.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.29.png</image>
+                        <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.36.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Vests">
+                <item>
+                    <id>15</id>
+                    <name>Vest Cru</name>
+                    <description>Description of Vest Cru</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.33.png</image>
+                        <image>../images/clothes/Male/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.44.png</image>
+                        <image>../images/clothes/Male/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.51.png</image>
+                        <image>../images/clothes/Male/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.29.01.png</image>
+                        <image>../images/clothes/Male/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.29.06.png</image>
+                        <image>../images/clothes/Male/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.30.04.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+        </brand>
+        <brand name="Barrio Santo">
+            <type name="Pants">
+                <item>
+                    <id>1</id>
+                    <name>Sweatpants</name>
+                    <description>Description of Sweatpants</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.31.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.35.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.40.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.46.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.49.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.55.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.57.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Shorts">
+                <item>
+                    <id>2</id>
+                    <name>Jogging Shorts</name>
+                    <description>Description of Jogging Shorts</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.00.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.04.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.10.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.37.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.43.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.50.png</image>
+                        <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.54.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+        </brand>
+        <brand name="GASA Sportswear">
+            <type name="T-Shirts">
+                <item>
+                    <id>1</id>
+                    <name>Core Sleeveless Performance Top</name>
+                    <description>Description of Core Sleeveless Performance Top</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.33.png</image>
+                        <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.39.png</image>
+                        <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.43.png</image>
+                        <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.50.png</image>
+                        <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.07.01.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+        </brand>
+        <brand name="ISTO">
+            <type name="Bags">
+                <item>
+                    <id>1</id>
+                    <name>Tote bag</name>
+                    <description>Description of Tote bag</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Bags/Tote bag/Screenshot_2025-03-03_at_19.49.58.png</image>
+                        <image>../images/clothes/Male/ISTO/Bags/Tote bag/Screenshot_2025-03-03_at_19.50.05.png</image>
+                        <image>../images/clothes/Male/ISTO/Bags/Tote bag/Screenshot_2025-03-03_at_19.50.12.png</image>
+                        <image>../images/clothes/Male/ISTO/Bags/Tote bag/Screenshot_2025-03-03_at_19.50.26.png</image>
+                        <image>../images/clothes/Male/ISTO/Bags/Tote bag/Screenshot_2025-03-03_at_19.50.30.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Hats">
+                <item>
+                    <id>2</id>
+                    <name>Beer Pint Beige Hat</name>
+                    <description>Description of Beer Pint Beige Hat</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Beer Pint Beige Hat/Screenshot_2025-03-03_at_19.45.42.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>3</id>
+                    <name>Blue Chair Beige Hat</name>
+                    <description>Description of Blue Chair Beige Hat</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Blue Chair Beige Hat/Screenshot_2025-03-03_at_19.45.27.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>4</id>
+                    <name>ISTO Hat</name>
+                    <description>Description of ISTO Hat</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.46.50.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.47.00.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.47.11.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.47.16.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.47.19.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>5</id>
+                    <name>Merino Wool Beanie</name>
+                    <description>Description of Merino Wool Beanie</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.25.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.35.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.43.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.52.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.55.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>6</id>
+                    <name>Seagul Blue Hat</name>
+                    <description>Description of Seagul Blue Hat</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Seagul Blue Hat/Screenshot_2025-03-03_at_19.45.50.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>White Chair Blue Hat</name>
+                    <description>Description of White Chair Blue Hat</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/White Chair Blue Hat/Screenshot_2025-03-03_at_19.46.00.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Jackets">
+                <item>
+                    <id>8</id>
+                    <name>Curduoy Jacket</name>
+                    <description>Description of Curduoy Jacket</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.42.29.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.42.38.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.42.45.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.43.31.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.43.36.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>9</id>
+                    <name>Deadstock Blazer</name>
+                    <description>Description of Deadstock Blazer</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.39.52.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.03.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.13.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.25.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.43.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.41.07.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.41.18.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.41.27.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.41.33.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>10</id>
+                    <name>Heavy Wool Jacket</name>
+                    <description>Description of Heavy Wool Jacket</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.30.46.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.35.41.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.35.50.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.36.01.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.36.14.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.36.23.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.37.39.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>11</id>
+                    <name>Quilted Wool Jacket</name>
+                    <description>Description of Quilted Wool Jacket</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Jackets/Quilted Wool Jacket/Screenshot_2025-03-03_at_19.38.09.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Quilted Wool Jacket/Screenshot_2025-03-03_at_19.38.17.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Quilted Wool Jacket/Screenshot_2025-03-03_at_19.38.26.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Quilted Wool Jacket/Screenshot_2025-03-03_at_19.38.35.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Quilted Wool Jacket/Screenshot_2025-03-03_at_19.38.40.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>12</id>
+                    <name>Recycled Work Jacket</name>
+                    <description>Description of Recycled Work Jacket</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.23.39.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.23.51.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.00.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.18.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.27.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.51.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.25.01.png</image>
+                        <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.25.07.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Pants">
+                <item>
+                    <id>13</id>
+                    <name>Denim Trousers</name>
+                    <description>Description of Denim Trousers</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.31.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.51.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.31.14.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.02.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.07.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.20.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.47.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.14.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.23.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.31.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.43.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.50.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.55.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>14</id>
+                    <name>Pleated Corduroy</name>
+                    <description>Description of Pleated Corduroy</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.01.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.11.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.29.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.46.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.00.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.33.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.45.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.55.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.44.10.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.44.19.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.44.23.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>15</id>
+                    <name>Wool Trousers</name>
+                    <description>Description of Wool Trousers</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.40.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.48.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.57.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.36.05.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.36.15.png</image>
+                        <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.36.19.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Shirts">
+                <item>
+                    <id>16</id>
+                    <name>Camp-Collar Linen Shirt</name>
+                    <description>Description of Camp-Collar Linen Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shirts/Camp-Collar Linen Shirt/Screenshot_2025-03-03_at_19.59.25.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Camp-Collar Linen Shirt/Screenshot_2025-03-03_at_19.59.32.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Camp-Collar Linen Shirt/Screenshot_2025-03-03_at_19.59.42.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Camp-Collar Linen Shirt/Screenshot_2025-03-03_at_19.59.53.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Camp-Collar Linen Shirt/Screenshot_2025-03-03_at_20.00.06.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Camp-Collar Linen Shirt/Screenshot_2025-03-03_at_20.00.12.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Camp-Collar Linen Shirt/Screenshot_2025-03-03_at_20.00.16.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>17</id>
+                    <name>Cashmiere Shirt</name>
+                    <description>Description of Cashmiere Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.07.49.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.07.58.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.08.07.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.08.15.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.08.23.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.08.28.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.08.57.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Cashmiere Shirt/Screenshot_2025-03-03_at_20.09.12.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>18</id>
+                    <name>Oxford Shirt</name>
+                    <description>Description of Oxford Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.05.46.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.06.13.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.06.21.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.06.34.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.06.44.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.06.54.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.07.01.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Oxford Shirt/Screenshot_2025-03-03_at_20.07.06.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>19</id>
+                    <name>Shirt Checked Flannel</name>
+                    <description>Description of Shirt Checked Flannel</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.01.35.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.01.43.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.01.51.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.02.02.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.02.15.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.02.27.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.02.35.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Shirt Checked Flannel/Screenshot_2025-03-03_at_20.02.40.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>20</id>
+                    <name>Striped Linen Shirt</name>
+                    <description>Description of Striped Linen Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shirts/Striped Linen Shirt/Screenshot_2025-03-03_at_20.04.06.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Striped Linen Shirt/Screenshot_2025-03-03_at_20.04.13.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Striped Linen Shirt/Screenshot_2025-03-03_at_20.04.26.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Striped Linen Shirt/Screenshot_2025-03-03_at_20.04.40.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Striped Linen Shirt/Screenshot_2025-03-03_at_20.04.46.png</image>
+                        <image>../images/clothes/Male/ISTO/Shirts/Striped Linen Shirt/Screenshot_2025-03-03_at_20.04.53.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Shorts">
+                <item>
+                    <id>21</id>
+                    <name>Curduroy Shorts</name>
+                    <description>Description of Curduroy Shorts</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.48.47.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.48.55.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.10.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.18.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.31.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.43.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.57.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.50.05.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.50.11.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>22</id>
+                    <name>Linen Shorts</name>
+                    <description>Description of Linen Shorts</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.45.07.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.45.15.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.45.23.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.45.32.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.45.42.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.45.53.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.46.24.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Linen Shorts/Screenshot_2025-03-03_at_18.46.28.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>23</id>
+                    <name>Shorts</name>
+                    <description>Description of Shorts</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.47.00.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.47.07.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.47.14.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.47.23.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.47.32.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.47.49.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.48.00.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.48.10.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_18.48.19.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_19.04.52.png</image>
+                        <image>../images/clothes/Male/ISTO/Shorts/Shorts/Screenshot_2025-03-03_at_19.04.56.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Socks">
+                <item>
+                    <id>24</id>
+                    <name>Cotton Socks</name>
+                    <description>Description of Cotton Socks</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.06.png</image>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.16.png</image>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.25.png</image>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.35.png</image>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.41.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Sweaters">
+                <item>
+                    <id>25</id>
+                    <name>Cashmiere Sweater</name>
+                    <description>Description of Cashmiere Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.02.39.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.02.50.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.06.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.16.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.46.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.04.00.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.07.44.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.08.02.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>26</id>
+                    <name>Cotton Sweater</name>
+                    <description>Description of Cotton Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.19.55.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.20.04.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.27.26.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.27.43.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.27.58.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.28.06.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>27</id>
+                    <name>Heavy Wool Sweater</name>
+                    <description>Description of Heavy Wool Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.10.56.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.11.13.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.11.46.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.12.04.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.13.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.34.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.47.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.53.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>28</id>
+                    <name>Hoodie</name>
+                    <description>Description of Hoodie</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.27.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.43.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.59.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.30.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.38.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.45.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.14.25.png</image>
+                        <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.14.31.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Swimwear">
+                <item>
+                    <id>29</id>
+                    <name>Swim shirts</name>
+                    <description>Description of Swim shirts</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.12.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.24.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.30.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.51.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.59.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.10.10.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.10.18.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.10.33.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.10.39.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="T-shirts">
+                <item>
+                    <id>30</id>
+                    <name>Breton</name>
+                    <description>Description of Breton</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.13.51.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.13.57.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.14.05.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.14.13.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.14.22.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.14.26.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>31</id>
+                    <name>Classic T-Shirt</name>
+                    <description>Description of Classic T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.01.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.25.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.37.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.04.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.38.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.05.44.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>32</id>
+                    <name>ISTO X SLOP HEAVYWEIGHT T-SHIRT</name>
+                    <description>Description of ISTO X SLOP HEAVYWEIGHT T-SHIRT</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.12.20.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.12.27.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.12.45.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.13.00.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.13.08.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.13.12.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>33</id>
+                    <name>ISTO x lts</name>
+                    <description>Description of ISTO x lts</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.22.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.48.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.58.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.57.08.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.15.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.28.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.37.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.47.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.22.00.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.22.03.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>34</id>
+                    <name>Ringer T-Shirt</name>
+                    <description>Description of Ringer T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.02.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.25.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.31.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.35.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>35</id>
+                    <name>Striped T-Shirt</name>
+                    <description>Description of Striped T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.14.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.23.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.32.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>36</id>
+                    <name>White T-Shirt</name>
+                    <description>Description of White T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.43.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.53.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.58.04.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_20.10.24.png</image>
+                        <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_20.10.28.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+        </brand>
+        <brand name="Mustique">
+            <type name="Pants" />
+            <type name="Sweaters">
+                <item>
+                    <id>1</id>
+                    <name>Connection Crewneck Sweater</name>
+                    <description>Description of Connection Crewneck Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.13.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.35.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.46.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.50.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>Good Times Crewneck Sweater</name>
+                    <description>Description of Good Times Crewneck Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.31.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.41.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.50.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.23.56.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>3</id>
+                    <name>Knit Sweater</name>
+                    <description>Description of Knit Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.18.44.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.00.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.15.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.34.png</image>
+                        <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.21.11.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Swimsuits">
+                <item>
+                    <id>4</id>
+                    <name>Daylight Striped Swim Trunks</name>
+                    <description>Description of Daylight Striped Swim Trunks</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.10.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.17.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.22.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.30.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.34.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>5</id>
+                    <name>Sunny Swim Trunks</name>
+                    <description>Description of Sunny Swim Trunks</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.38.46.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.38.54.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.39.02.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.39.09.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.39.22.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="T-Shirts">
+                <item>
+                    <id>6</id>
+                    <name>Heat Waves T-Shirt</name>
+                    <description>Description of Heat Waves T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.21.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>Island Records T-Shirt</name>
+                    <description>Description of Island Records T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.24.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.29.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.36.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.42.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.49.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.58.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>8</id>
+                    <name>Other Destinations T-Shirt</name>
+                    <description>Description of Other Destinations T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.26.54.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.27.04.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.27.10.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>9</id>
+                    <name>Tropical T-Shirt</name>
+                    <description>Description of Tropical T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.39.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.53.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.59.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.08.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.11.png</image>
+                        <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.28.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+        </brand>
+        <brand name="Wetheknot">
+            <type name="Accessories">
+                <item>
+                    <id>1</id>
+                    <name>Essential Knitted Scarf</name>
+                    <description>Description of Essential Knitted Scarf</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.45.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.55.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.18.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.41.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.59.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>Knitted Reversible Scarf</name>
+                    <description>Description of Knitted Reversible Scarf</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.32.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.40.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.48.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.54.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>3</id>
+                    <name>Upcycled Bandana</name>
+                    <description>Description of Upcycled Bandana</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.57.59.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.58.04.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.19.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.36.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>4</id>
+                    <name>Vegan Leather Essential Belt</name>
+                    <description>Description of Vegan Leather Essential Belt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.24.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.31.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.37.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.41.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+            <type name="Bags">
+                <item>
+                    <id>5</id>
+                    <name>Recycled Convertible Backpack</name>
+                    <description>Description of Recycled Convertible Backpack</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.33.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.39.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.44.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.06.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.11.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.48.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.50.12.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>6</id>
+                    <name>Recycled Fanny Pack</name>
+                    <description>Description of Recycled Fanny Pack</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.29.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.42.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.49.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.56.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.01.00.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>Recycled Messenger Bag</name>
+                    <description>Description of Recycled Messenger Bag</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <images>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.36.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.42.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.49.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.53.04.png</image>
+                        <image>../images/clothes/Male/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.54.16.png</image>
+                    </images>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                </item>
+            </type>
+        </brand>
+    </brands>
+</clothing>

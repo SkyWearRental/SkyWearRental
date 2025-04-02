@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="../images/logo/logo_name.png">
+    <title>SkyWear Rental</title>
+    <link rel="stylesheet" href="../css/start.css">
+    <script src="https://kit.fontawesome.com/0d045f7163.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="card">
+        <div class="card-header">
+            <img class="logo" src="../images/logo/logo_name.png">
+        </div>
+
+        <div class="card-content">
+            <div class="forms-container">
+                <div class="form" id="flight-number-form">
+                    <h2>Search with flight number</h2>
+                    <div class="input-row">
+                        <span class="form-label">What flight will take you there?</span>
+                        <input class="form-input flight-number-input" id="flight-number-going" type="text" placeholder="Ex: TAP1111" required>
+                    </div>
+                    <div class="input-row">
+                        <span class="form-label">What flight will take you back? (Optional)</span>
+                        <input class="form-input flight-number-input" id="flight-number-back" type="text" placeholder="Ex: TAP1111">    
+                    </div>
+                </div>
+                <p id="link">I don't have a flight number yet</p>
+                <button class="submit-button fn-sub-btn" id="submit-button"></button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/flight-number.js"></script>
+</body>
+</html>
