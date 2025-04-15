@@ -1,2 +1,825 @@
 <?xml version='1.0' encoding='utf-8'?>
-<clothing><brands><brand name="+351"><type name="Jackets"><item><id>1</id><name>JACKET CANVAS SPECIAL EDITION BIG SHARK</name><description>Description of JACKET CANVAS SPECIAL EDITION BIG SHARK</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.51.png</image><image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.57.png</image><image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.04.png</image><image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.16.png</image><image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.24.png</image><image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.31.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>2</id><name>Jacket la dolce vita</name><description>Description of Jacket la dolce vita</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.28.png</image><image>../images/clothes/Female/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.38.png</image><image>../images/clothes/Female/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.50.png</image><image>../images/clothes/Female/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.42.00.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Pants"><item><id>3</id><name>PANTS CORDS MECCA</name><description>Description of PANTS CORDS MECCA</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.07.png</image><image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.15.png</image><image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.35.png</image><image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.48.png</image><image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.26.png</image><image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.40.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>4</id><name>Pants la dolce vita</name><description>Description of Pants la dolce vita</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.21.png</image><image>../images/clothes/Female/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.29.png</image><image>../images/clothes/Female/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.36.png</image><image>../images/clothes/Female/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.41.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>5</id><name>SWEATPANTS CHARCOAL</name><description>Description of SWEATPANTS CHARCOAL</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.44.55.png</image><image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.10.png</image><image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.23.png</image><image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.29.png</image><image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.49.28.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Sweaters"><item><id>6</id><name>Hoodie Cru</name><description>Description of Hoodie Cru</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.05.png</image><image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.16.png</image><image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.26.png</image><image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.47.png</image><image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.40.04.png</image><image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.40.11.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>7</id><name>Sweatshirt Zip Stoned</name><description>Description of Sweatshirt Zip Stoned</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.50.png</image><image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.56.png</image><image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.14.png</image><image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.27.png</image><image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.38.png</image><image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.46.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="T-Shirts"><item><id>8</id><name>Graphic T-Shirt</name><description>Description of Graphic T-Shirt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.15.png</image><image>../images/clothes/Female/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.29.png</image><image>../images/clothes/Female/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.43.png</image><image>../images/clothes/Female/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.19.12.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>9</id><name>North Atlantic T-Shirt</name><description>Description of North Atlantic T-Shirt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.15.png</image><image>../images/clothes/Female/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.22.png</image><image>../images/clothes/Female/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.37.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>10</id><name>Ocean Life T-Shirt</name><description>Description of Ocean Life T-Shirt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.07.png</image><image>../images/clothes/Female/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.20.png</image><image>../images/clothes/Female/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.29.png</image><image>../images/clothes/Female/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.36.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Vests"><item><id>11</id><name>Vest Cru</name><description>Description of Vest Cru</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.33.png</image><image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.44.png</image><image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.51.png</image><image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.29.01.png</image><image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.29.06.png</image><image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.30.04.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type></brand><brand name="Mustique"><type name="Pants"><item><id>1</id><name>Ecru Linen Blend Shorts</name><description>Description of Ecru Linen Blend Shorts</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.15.png</image><image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.20.png</image><image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.25.png</image><image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.33.png</image><image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.42.png</image><image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.46.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>2</id><name>Flared Curduroy Pants</name><description>Description of Flared Curduroy Pants</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.31.46.png</image><image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.32.00.png</image><image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.32.17.png</image><image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.32.25.png</image><image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.32.28.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>3</id><name>Flared Striped Pants</name><description>Description of Flared Striped Pants</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Pants/Flared Striped Pants/Screenshot_2025-03-04_at_15.32.40.png</image><image>../images/clothes/Female/Mustique/Pants/Flared Striped Pants/Screenshot_2025-03-04_at_15.32.51.png</image><image>../images/clothes/Female/Mustique/Pants/Flared Striped Pants/Screenshot_2025-03-04_at_15.32.57.png</image><image>../images/clothes/Female/Mustique/Pants/Flared Striped Pants/Screenshot_2025-03-04_at_15.33.02.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Sweaters"><item><id>4</id><name>Connection Crewneck Sweater</name><description>Description of Connection Crewneck Sweater</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.13.png</image><image>../images/clothes/Female/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.35.png</image><image>../images/clothes/Female/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.46.png</image><image>../images/clothes/Female/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.50.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>5</id><name>Good Times Crewneck Sweater</name><description>Description of Good Times Crewneck Sweater</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.31.png</image><image>../images/clothes/Female/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.41.png</image><image>../images/clothes/Female/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.50.png</image><image>../images/clothes/Female/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.23.56.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>6</id><name>Knit Sweater</name><description>Description of Knit Sweater</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.18.44.png</image><image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.00.png</image><image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.15.png</image><image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.34.png</image><image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.21.11.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Swimsuits"><item><id>7</id><name>Light Flowers Bikini</name><description>Description of Light Flowers Bikini</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.35.43.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.04.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.13.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.28.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.54.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.13.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.18.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.23.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.35.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>8</id><name>Light Flowers Swimsuit</name><description>Description of Light Flowers Swimsuit</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.32.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.51.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.00.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.08.png</image><image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.15.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="T-Shirts"><item><id>9</id><name>Heat Waves T-Shirt</name><description>Description of Heat Waves T-Shirt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.21.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>10</id><name>Island Records T-Shirt</name><description>Description of Island Records T-Shirt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.24.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.29.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.36.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.42.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.49.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.58.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>11</id><name>Other Destinations T-Shirt</name><description>Description of Other Destinations T-Shirt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.26.54.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.27.04.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.27.10.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>12</id><name>Tropical T-Shirt</name><description>Description of Tropical T-Shirt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.39.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.53.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.59.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.08.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.11.png</image><image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.28.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type></brand><brand name="Naz"><type name="Overalls"><item><id>1</id><name>Corduroy Overall</name><description>Description of Corduroy Overall</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.03.png</image><image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.09.png</image><image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.17.png</image><image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.24.png</image><image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.26.png</image><image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.32.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Pants"><item><id>2</id><name>Mara Tancel Trousers</name><description>Description of Mara Tancel Trousers</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.16.png</image><image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.24.png</image><image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.30.png</image><image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.35.png</image><image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.40.png</image><image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.45.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Sweaters"><item><id>3</id><name>Sophia Blue Cardigan</name><description>Description of Sophia Blue Cardigan</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.51.45.png</image><image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.51.57.png</image><image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.52.04.png</image><image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.52.16.png</image><image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.52.19.png</image><image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.52.22.png</image><image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.52.28.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Vests"><item><id>4</id><name>Alice Knit Vest</name><description>Description of Alice Knit Vest</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.49.42.png</image><image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.50.04.png</image><image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.50.18.png</image><image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.50.23.png</image><image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.50.26.png</image><image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.50.31.png</image><image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.51.14.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type></brand><brand name="Organic Studio"><type name="Body Suits"><item><id>1</id><name>Sleeveless Bodysuit in Black</name><description>Description of Sleeveless Bodysuit in Black</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.33.33.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.33.45.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.33.53.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.34.01.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.34.05.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>2</id><name>Sleeveless Bodysuit in Ecru</name><description>Description of Sleeveless Bodysuit in Ecru</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.34.57.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.35.05.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.35.18.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.35.27.png</image><image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.35.31.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Leggings"><item><id>3</id><name>High Waist Leggings</name><description>Description of High Waist Leggings</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.27.50.png</image><image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.28.06.png</image><image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.28.17.png</image><image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.28.43.png</image><image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.28.48.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Shorts"><item><id>4</id><name>Cycle shorts</name><description>Description of Cycle shorts</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.01.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.12.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.20.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.29.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.58.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.31.07.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>5</id><name>Cycle shorts in Ecru</name><description>Description of Cycle shorts in Ecru</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.31.51.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.31.59.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.32.17.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.32.27.png</image><image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.32.37.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Tops"><item><id>6</id><name>Crop Top</name><description>Description of Crop Top</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.36.47.png</image><image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.36.53.png</image><image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.37.03.png</image><image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.37.10.png</image><image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.37.15.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>7</id><name>One sholder top in black</name><description>Description of One sholder top in black</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.14.png</image><image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.23.png</image><image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.30.png</image><image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.38.png</image><image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.43.png</image><image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.42.22.png</image><image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.42.27.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>8</id><name>Tank top</name><description>Description of Tank top</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.19.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.29.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.36.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.51.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.56.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.39.24.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.01.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.09.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.14.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.25.png</image><image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.30.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type></brand><brand name="Siz"><type name="Bundles"><item><id>1</id><name>The Elegant Bundle</name><description>Description of The Elegant Bundle</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.07.png</image><image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.19.png</image><image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.28.png</image><image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.49.png</image><image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.54.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type></brand><brand name="Wetheknot"><type name="Accessories"><item><id>1</id><name>Essential Knitted Scarf</name><description>Description of Essential Knitted Scarf</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.45.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.55.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.18.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.41.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.59.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>2</id><name>Knitted Reversible Scarf</name><description>Description of Knitted Reversible Scarf</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.32.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.40.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.48.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.54.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>3</id><name>Upcycled Bandana</name><description>Description of Upcycled Bandana</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.57.59.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.58.04.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.19.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.36.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>4</id><name>Vegan Leather Essential Belt</name><description>Description of Vegan Leather Essential Belt</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.24.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.31.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.37.png</image><image>../images/clothes/Female/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.41.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type><type name="Bags"><item><id>5</id><name>Recycled Convertible Backpack</name><description>Description of Recycled Convertible Backpack</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.33.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.39.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.44.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.06.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.11.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.48.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.50.12.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>6</id><name>Recycled Fanny Pack</name><description>Description of Recycled Fanny Pack</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.29.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.42.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.49.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.56.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.01.00.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item><item><id>7</id><name>Recycled Messenger Bag</name><description>Description of Recycled Messenger Bag</description><sizes><size>S</size><size>M</size><size>L</size></sizes><images><image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.36.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.42.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.49.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.53.04.png</image><image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.54.16.png</image></images><retail-price>0.00</retail-price><renting-price>0.00</renting-price></item></type></brand></brands></clothing>
+<clothing>
+    <brands>
+        <brand name="+351">
+            <type name="Jackets">
+                <item>
+                    <id>1</id>
+                    <name>JACKET CANVAS SPECIAL EDITION BIG SHARK</name>
+                    <description>The JACKET CANVAS SPECIAL EDITION BIG SHARK combines eco-friendly style with a bold design. Made from 100% organic cotton in Portugal, it features a durable 390 g/sqm fabric, pigment-dyed finish, and practical front pockets. The standout: a large shark patch on the back for an adventurous</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€118.8</retail-price>
+                    <renting-price>€17.8</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.51.png</image>
+                        <image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.57.png</image>
+                        <image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.04.png</image>
+                        <image>../images/clothes/Female/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.16.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>Jacket la dolce vita</name>
+                    <description>Stay relaxed and stylish all summer long with the Jacket La Dolce Vita. \nThis relaxed jacket embodies the carefree spirit of the Italian "dolce vita" lifestyle. Cozy texture made small cors. Perfect for any summer adventure. \nDesigned in collaboration with Joana Astolfi.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€190.00</retail-price>
+                    <renting-price>€28.50</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.28.png</image>
+                        <image>../images/clothes/Female/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.38.png</image>
+                        <image>../images/clothes/Female/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.50.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Pants">
+                <item>
+                    <id>3</id>
+                    <name>PANTS CORDS MECCA</name>
+                    <description>We love corduroy's durability and warmth, so we've tailored our pants to be comfortable and versatile. Ideal for colder days, these pants add interest and texture to any occasion. With an elastic waist, the pants have a tapered fit, complete with two side and two back pockets.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€88.80</retail-price>
+                    <renting-price>€13.32</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.07.png</image>
+                        <image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.15.png</image>
+                        <image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.35.png</image>
+                        <image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.26.png</image>
+                        <image>../images/clothes/Female/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.40.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>4</id>
+                    <name>Pants la dolce vita</name>
+                    <description>Unwind and embrace the Italian lifestyle with our PANTS LA DOLCE VITA. Perfect for a relaxed summer, these pants will transport you to a state of leisure and enjoyment. \nWith an elastic waist, the pants have a tapered fit, complete with two side and two back pockets. Experience the sweet life for yourself with these stylish and comfortable pants. \nDesigned in collaboration with Joana Astolfi.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€155.00</retail-price>
+                    <renting-price>€23.25</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.21.png</image>
+                        <image>../images/clothes/Female/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.29.png</image>
+                        <image>../images/clothes/Female/+351/Pants/Pants la dolce vita/Screenshot_2025-03-03_at_20.48.36.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>5</id>
+                    <name>SWEATPANTS CHARCOAL</name>
+                    <description>Cut from 100% organic Plush cotton, our medium-weight sweatpants are designed to be comfortable and stylish with a relaxed fit. Team yours with the matching hoodie and a timeless Essential t-shirt.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.44.55.png</image>
+                        <image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.10.png</image>
+                        <image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.23.png</image>
+                        <image>../images/clothes/Female/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.49.28.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Sweaters">
+                <item>
+                    <id>6</id>
+                    <name>Hoodie Cru</name>
+                    <description>Description of Hoodie Cru</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.05.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.16.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.26.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.47.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.40.04.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>Sweatshirt Zip Stoned</name>
+                    <description>Description of Sweatshirt Zip Stoned</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.50.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.56.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.14.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.27.png</image>
+                        <image>../images/clothes/Female/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.38.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="T-Shirts">
+                <item>
+                    <id>8</id>
+                    <name>Graphic T-Shirt</name>
+                    <description>Description of Graphic T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.15.png</image>
+                        <image>../images/clothes/Female/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.29.png</image>
+                        <image>../images/clothes/Female/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.43.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>9</id>
+                    <name>North Atlantic T-Shirt</name>
+                    <description>Description of North Atlantic T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.15.png</image>
+                        <image>../images/clothes/Female/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.22.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>10</id>
+                    <name>Ocean Life T-Shirt</name>
+                    <description>Description of Ocean Life T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.07.png</image>
+                        <image>../images/clothes/Female/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.20.png</image>
+                        <image>../images/clothes/Female/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.29.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Vests">
+                <item>
+                    <id>11</id>
+                    <name>Vest Cru</name>
+                    <description>Description of Vest Cru</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.33.png</image>
+                        <image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.44.png</image>
+                        <image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.28.51.png</image>
+                        <image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.29.01.png</image>
+                        <image>../images/clothes/Female/+351/Vests/Vest Cru/Screenshot_2025-03-03_at_20.30.04.png</image>
+                    </images>
+                </item>
+            </type>
+        </brand>
+        <brand name="Mustique">
+            <type name="Pants">
+                <item>
+                    <id>1</id>
+                    <name>Ecru Linen Blend Shorts</name>
+                    <description>60% linen, 40% cotton. True to size Contrast lilac stitching. Elastic waistband \nMade in Portugal</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€19.50</retail-price>
+                    <renting-price>€3.90</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.15.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.20.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.25.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.33.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Ecru Linen Blend Shorts/Screenshot_2025-03-04_at_15.43.42.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>Flared Curduroy Pants</name>
+                    <description>85% polyethylene, 12% polyamide, 3% spandex \nFlared fit. Two side pockets \nMade in Portugal</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.31.46.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.32.00.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.32.17.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Flared Curduroy Pants/Screenshot_2025-03-04_at_15.32.25.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>3</id>
+                    <name>Flared Striped Pants</name>
+                    <description>100% cotton \nTrue to size. Flared fit \nMade in Portugal</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Pants/Flared Striped Pants/Screenshot_2025-03-04_at_15.32.40.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Flared Striped Pants/Screenshot_2025-03-04_at_15.32.51.png</image>
+                        <image>../images/clothes/Female/Mustique/Pants/Flared Striped Pants/Screenshot_2025-03-04_at_15.32.57.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Sweaters">
+                <item>
+                    <id>4</id>
+                    <name>Connection Crewneck Sweater</name>
+                    <description>Description of Connection Crewneck Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.13.png</image>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.35.png</image>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.46.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>5</id>
+                    <name>Good Times Crewneck Sweater</name>
+                    <description>Description of Good Times Crewneck Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.31.png</image>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.41.png</image>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.50.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>6</id>
+                    <name>Knit Sweater</name>
+                    <description>Description of Knit Sweater</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.18.44.png</image>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.00.png</image>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.15.png</image>
+                        <image>../images/clothes/Female/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.21.11.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Swimsuits">
+                <item>
+                    <id>7</id>
+                    <name>Light Flowers Bikini</name>
+                    <description>82% recycled polyester, 18% elastane \nTrue to size \nMade in Portugal</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€12.60</retail-price>
+                    <renting-price>€2.52</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.35.43.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.04.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.13.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.28.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.13.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.18.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.23.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.35.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>8</id>
+                    <name>Light Flowers Swimsuit</name>
+                    <description>82% recycled polyester, 18% elastane \nTrue to size \nMade in Portugal</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€25.80</retail-price>
+                    <renting-price>€5.16</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.32.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.51.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.00.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.08.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="T-Shirts">
+                <item>
+                    <id>9</id>
+                    <name>Heat Waves T-Shirt</name>
+                    <description>Description of Heat Waves T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>10</id>
+                    <name>Island Records T-Shirt</name>
+                    <description>Description of Island Records T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.24.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.29.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.36.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.42.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.49.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>11</id>
+                    <name>Other Destinations T-Shirt</name>
+                    <description>Description of Other Destinations T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.26.54.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.27.04.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>12</id>
+                    <name>Tropical T-Shirt</name>
+                    <description>Description of Tropical T-Shirt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.39.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.53.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.59.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.08.png</image>
+                        <image>../images/clothes/Female/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.28.png</image>
+                    </images>
+                </item>
+            </type>
+        </brand>
+        <brand name="Naz">
+            <type name="Overalls">
+                <item>
+                    <id>1</id>
+                    <name>Corduroy Overall</name>
+                    <description>Inspired by workwear, these overalls offer a laidback vibe and ultimate versatility with their relaxed straight-fit and comfy elastic waistband. \nThey feature both back and front pockets, side buttons, and an elastic on the back for a more flattering silhouette. Materials: 100% Cotton (20% Recycled). \nGRS Certified.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€139.00</retail-price>
+                    <renting-price>€20.85</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.03.png</image>
+                        <image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.09.png</image>
+                        <image>../images/clothes/Female/Naz/Overalls/Corduroy Overall/Screenshot_2025-03-04_at_16.53.17.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Pants">
+                <item>
+                    <id>2</id>
+                    <name>Mara Tancel Trousers</name>
+                    <description>Made for lasting quality these White Tencel \nTrousers are perfect for any occasion. \nThese tailored pants feature wide legs, elastic waistband on the back, and soft front pleats for an elegant but comfortable look. \nWe know you won't be sorry when you feel how soft this fabric is!Materials: \n100% Tencel \nCare Instructions: \nMachine Wash Cold Inside Out. \nDon't Tumble Dry. \nIron at low temperature inside out.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€129.00</retail-price>
+                    <renting-price>€19.35</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.16.png</image>
+                        <image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.24.png</image>
+                        <image>../images/clothes/Female/Naz/Pants/Mara Tancel Trousers/Screenshot_2025-03-04_at_16.54.30.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Sweaters">
+                <item>
+                    <id>3</id>
+                    <name>Sophia Blue Cardigan</name>
+                    <description>An Ethical Essential: The Neutral Knit Cardigan. \nFeaturing an oversized fit making it soft and comfortable, it's made with Recycled Fibers creating a unique textured knit. Materials: \n45% Wool \n35% Recycled Wool \n20% Recycled Polyamide \nGRS Certified</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€129.00</retail-price>
+                    <renting-price>€19.35</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.51.45.png</image>
+                        <image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.51.57.png</image>
+                        <image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.52.04.png</image>
+                        <image>../images/clothes/Female/Naz/Sweaters/Sophia Blue Cardigan/Screenshot_2025-03-04_at_16.52.28.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Vests">
+                <item>
+                    <id>4</id>
+                    <name>Alice Knit Vest</name>
+                    <description>The Knit Vests came to become a Wardrobe \nStaple - we joined that team with the Alice Vest. \nThis neutral vest is perfect for layering with your favorite shirts or dresses. \nCrafted from 100% recycled wool, it's both cozy and sustainable. The regular fit ensures a comfortable and versatile style. Materials: \n100% Recycled Wool \nGRS, LCA and Reverso certified.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€99.90</retail-price>
+                    <renting-price>€14.98</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.49.42.png</image>
+                        <image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.50.04.png</image>
+                        <image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.50.18.png</image>
+                        <image>../images/clothes/Female/Naz/Vests/Alice Knit Vest/Screenshot_2025-03-04_at_16.51.14.png</image>
+                    </images>
+                </item>
+            </type>
+        </brand>
+        <brand name="Organic Studio">
+            <type name="Body Suits">
+                <item>
+                    <id>1</id>
+                    <name>Sleeveless Bodysuit in Black</name>
+                    <description>A sustainable fashion staple, our Sleeveless Black Bodysuit is a perfect addition to your organic clothing wardrobe. The Organic Cotton seamlessly hugs the body for a comfortable fit. Women's Activewear with a classic silhouette that will fit perfectly into any capsule wardrobe. - Made with GOTS certified Organic Cotton \nStretch Jersey; 91% Organic Cotton, 9% \nElastane.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€57.00</retail-price>
+                    <renting-price>€8.55</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.33.33.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.33.45.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Black/Screenshot_2025-03-04_at_16.33.53.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>Sleeveless Bodysuit in Ecru</name>
+                    <description>Ethically made, our sleeveless ecru bodysuit is a sustainable fashion basic which makes it the perfect addition to your wardrobe of sustainable clothing. Its comfortable fit comes from Cotton Piqué that seamlessly hugs the body. Women's Activewear with a classic silhouette that will fit perfectly into any capsule wardrobe.- Made with Better Cotton Initiative (BCI) 93% \nCotton Piqué; 7% Elastane \nSensitive Skin Friendly Clothing</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€57.00</retail-price>
+                    <renting-price>€8.55</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.34.57.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.35.05.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Body Suits/Sleeveless Bodysuit in Ecru/Screenshot_2025-03-04_at_16.35.18.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Leggings">
+                <item>
+                    <id>3</id>
+                    <name>High Waist Leggings</name>
+                    <description>Introducing our sustainably made, athleisure wear-inspired leggings made of a premium blend of TENCEL ™ Lyocell, cotton, and elastane. These leggings are the perfect addition to your workout wardrobe and are driven by our commitment to sustainability and ethical manufacturing practices in Portugal. With a secure fit that provides total comfort and coverage during runs and workouts, these super comfy leggings are ideal for both the gym and the streets. So why not step up your athleisure game with these sustainable and stylish leggings today? - Made with Interlock 63% TENCELT™ Lyocell, 31% Organic Cotton, 6% Elastane - Sensitive Skin Friendly Clothing.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€98.00</retail-price>
+                    <renting-price>€14.7</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.27.50.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.28.06.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Leggings/High Waist Leggings/Screenshot_2025-03-04_at_16.28.17.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Shorts">
+                <item>
+                    <id>4</id>
+                    <name>Cycle shorts</name>
+                    <description>Women's Activewear and sustainable clothing go hand-in-hand with our Black and Brown Colour-Block Cycling Shorts. Bike shorts provide a classic Athleisure silhouette to support movement and activity. At Organique work out clothing meets sustainable fashion that is a must have in every capsule wardrobe. With colour-block detailing, the GOTS certified Organic Cotton stretch jersey seamlessly hugs your body for a comfortable fit.- Made with GOTS certified Organic Cotton Stretch Jersey; 91% Organic Cotton, 9% Elastane Sensitive Skin Friendly Clothing</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€45.00</retail-price>
+                    <renting-price>€6.75</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.01.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.12.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.20.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts/Screenshot_2025-03-04_at_16.30.29.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>5</id>
+                    <name>Cycle shorts in Ecru</name>
+                    <description>Women's Activewear and sustainable fashion go hand-in-hand with our Ecru Cycling Shorts. Bike shorts are a classic basic in work out clothing because they support your movement and activity. These ecru cycling shorts are sustainable clothing that cannot be missed in your capsule wardrobe. Cotton hugs the body for a comfortable fit. - Made with Better Cotton Initiative (BCI) 93% Cotton; 7% Elastane - Sensitive Skin Friendly Clothing.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€45.00</retail-price>
+                    <renting-price>€6.75</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.31.51.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.31.59.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Shorts/Cycle shorts in Ecru/Screenshot_2025-03-04_at_16.32.17.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Tops">
+                <item>
+                    <id>6</id>
+                    <name>Crop Top</name>
+                    <description>Upgrade your athleisure wardrobe with our One Shoulder Stretch Top in Black. Organic Cotton supports movement and flexibility while the neckline offers sustainable fashion with a minimalistic asymmetrical shape. This top elevates women's activewear to create a sustainable clothing basic that is a staple in any capsule wardrobe.- Made with GOTS certified Organic Cotton Stretch Jersey; 91% Organic Cotton, 9% Elastane</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€35.00</retail-price>
+                    <renting-price>€7.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.36.47.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.36.53.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Crop Top/Screenshot_2025-03-04_at_16.37.03.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>One sholder top in black</name>
+                    <description>Upgrade your athleisure wardrobe with our One Shoulder Stretch Top in Black. Organic Cotton supports movement and flexibility while the neckline offers sustainable fashion with a minimalistic asymmetrical shape. This top elevates women's activewear to create a sustainable clothing basic that is a staple in any capsule wardrobe.- Made with GOTS certified Organic Cotton Stretch Jersey; 91% Organic Cotton, 9% Elastane - Sensitive Skin Friendly Clothing</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€35.00</retail-price>
+                    <renting-price>€5.25</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.14.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.23.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.41.30.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.42.22.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/One sholder top in black/Screenshot_2025-03-04_at_16.42.27.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>8</id>
+                    <name>Tank top</name>
+                    <description>This organic cotton black Tank Top is a combination of activewear clothing and sustainable fashion. The material compliments your body and supports your activity in women's activewear that meets sustainable clothing. Always ethical and vegan, this tank top is an ecological basic needed in any capsule wardrobe.- Made with GOTS certified Organic Cotton Stretch Jersey; 91% Organic Cotton, 9% Elastane</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€35.00</retail-price>
+                    <renting-price>€5.25</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.19.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.29.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.38.36.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.39.24.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.01.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.09.png</image>
+                        <image>../images/clothes/Female/Organic Studio/Tops/Tank top/Screenshot_2025-03-04_at_16.40.14.png</image>
+                    </images>
+                </item>
+            </type>
+        </brand>
+        <brand name="Siz">
+            <type name="Bundles">
+                <item>
+                    <id>1</id>
+                    <name>The Elegant Bundle</name>
+                    <description>Description of The Elegant Bundle</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.07.png</image>
+                        <image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.19.png</image>
+                        <image>../images/clothes/Female/Siz/Bundles/The Elegant Bundle/Screenshot_2025-03-04_at_17.01.28.png</image>
+                    </images>
+                </item>
+            </type>
+        </brand>
+        <brand name="Wetheknot">
+            <type name="Accessories">
+                <item>
+                    <id>1</id>
+                    <name>Essential Knitted Scarf</name>
+                    <description>Description of Essential Knitted Scarf</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.45.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.55.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.18.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.41.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>2</id>
+                    <name>Knitted Reversible Scarf</name>
+                    <description>Description of Knitted Reversible Scarf</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.32.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.40.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.48.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>3</id>
+                    <name>Upcycled Bandana</name>
+                    <description>Description of Upcycled Bandana</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.57.59.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.58.04.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.19.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>4</id>
+                    <name>Vegan Leather Essential Belt</name>
+                    <description>Description of Vegan Leather Essential Belt</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.24.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.31.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.37.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Bags">
+                <item>
+                    <id>5</id>
+                    <name>Recycled Convertible Backpack</name>
+                    <description>Description of Recycled Convertible Backpack</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.33.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.39.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.48.44.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.06.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.49.48.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Convertible Backpack/Screenshot_2025-03-04_at_15.50.12.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>6</id>
+                    <name>Recycled Fanny Pack</name>
+                    <description>Description of Recycled Fanny Pack</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.29.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.42.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.49.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Fanny Pack/Screenshot_2025-03-04_at_16.00.56.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>Recycled Messenger Bag</name>
+                    <description>Description of Recycled Messenger Bag</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>0.00</retail-price>
+                    <renting-price>0.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.36.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.42.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.52.49.png</image>
+                        <image>../images/clothes/Female/Wetheknot/Bags/Recycled Messenger Bag/Screenshot_2025-03-04_at_15.53.04.png</image>
+                    </images>
+                </item>
+            </type>
+        </brand>
+    </brands>
+</clothing>
