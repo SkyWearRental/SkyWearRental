@@ -68,6 +68,10 @@ header {
     z-index: 1000;
 }
 
+.dates-container{
+    cursor: pointer;
+}
+
 #filters-btn{
     background-color: var(--shadow);
     color: var(--text);
@@ -346,7 +350,7 @@ header {
     border-bottom-left-radius: 10px;
 }
 
-#scrollToTopBtn{
+#scroll-to-top{
     position: fixed;
     top: 100px;
     left: 20px;
@@ -362,7 +366,7 @@ header {
     z-index: 500;
 }
 
-#scrollToTopBtn:hover{
+#scroll-to-top:hover{
     background-color: var(--primary-dark);
     transform: scale(1.1);
 }
@@ -414,7 +418,7 @@ header {
     transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
 }
 
-.carousel{
+.carousel-container{
     position: relative;
     width: 100%;
     height: 80%;
@@ -540,8 +544,8 @@ header {
     opacity: 1 !important;
 }
 
-.carousel:hover .carousel-button, 
-.carousel:hover .plus-button{
+.carousel-container:hover .carousel-button, 
+.carousel-container:hover .plus-button{
     opacity: 1;
 }
 
@@ -552,24 +556,16 @@ header {
     }
 }
 
-.img-container{
-    height:80%;
-    overflow:hidden;
-}
-
-.img-container img{
-    width:100%;
-    height:auto;
-    object-fit:cover;
-}
-
 .description-container{
     height:20%;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-.description-container p{
+.description-container p:not(.price-tag){
     margin: 0;
     margin-top: 20px;
     font-size: 14px;
@@ -876,6 +872,15 @@ header {
 
 .brand-container h1{
     color: var(--primary);
+}
+
+.price-tag{
+    margin-top: 3px;
+    background-color: var(--secondary);
+    color: white;
+    border-radius: 10px;
+    width:fit-content;
+    padding: 5px 20px;
 }
 
 

@@ -791,10 +791,30 @@
                     </images>
                 </item>
             </type>
-            <type name="Socks" />
-            <type name="Sweaters">
+            <type name="Socks">
                 <item>
                     <id>24</id>
+                    <name>Cotton Socks</name>
+                    <description>Socks Description</description>
+                    <sizes>
+                        <size>42</size>
+                        <size>43</size>
+                        <size>44</size>
+                        <size>45</size>
+                        <size>46</size>
+                    </sizes>
+                    <retail-price>€20.00</retail-price>
+                    <renting-price>€2.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.06.png</image>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.16.png</image>
+                        <image>../images/clothes/Male/ISTO/Socks/Cotton Socks/Screenshot_2025-03-03_at_19.51.25.png</image>
+                    </images>
+                </item>
+            </type>
+            <type name="Sweaters">
+                <item>
+                    <id>25</id>
                     <name>Cashmiere Sweater</name>
                     <description>Combed by hand from pure mongolian mountain goats, our Cashmere Sweater is the ultimate luxury staple of our permanent collection. We've chosen the longest and finest fibres - from world-famous Italian mill Cariaggi - to obtain the strongest yarn. Everyday comfort to use with or without layers.</description>
                     <sizes>
@@ -814,7 +834,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>25</id>
+                    <id>26</id>
                     <name>Cotton Sweater</name>
                     <description>Made with best-in-class 100% organic cotton from Italy, this sweater is carefully knitted at our specialized knitwear Portuguese supplier Orfama. With a half-cardigan fit and soft hand feel, it is the perfect staple to cozy you up 365 days a year.</description>
                     <sizes>
@@ -832,7 +852,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>26</id>
+                    <id>27</id>
                     <name>Heavy Wool Sweater</name>
                     <description>Crafted from a Luxury 100% Heavy Merino Wool fabric, this chunky 5gg fully fashioned Sweater is ready to become your everyday essential during wintery weather. With a straight and relaxed fit, it can be worn with or without additional layers but one thing is for sure: it can go through several weather conditions and stay impeccable. This is a guaranteed though one, test it out.</description>
                     <sizes>
@@ -852,7 +872,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>27</id>
+                    <id>28</id>
                     <name>Hoodie</name>
                     <description>Carefully constructed from a beautiful organic diagonal loopback French Terry, this Hoodie features a handy front pocket for maximum comfort and a relaxed double-layer hoodie that will help it stand the test of time. Mid to high 380 g/sqm jersey for an extra luxury touch.</description>
                     <sizes>
@@ -874,7 +894,7 @@
             </type>
             <type name="Swimwear">
                 <item>
-                    <id>28</id>
+                    <id>29</id>
                     <name>Swim shirts</name>
                     <description>Our Swim Trunks are crafted using a unique fabric called Seaqual, which is made up of 10% recycled plastic from the sea and 90% recycled polyester from post-consumer waste. This eco-friendly fabric, along with recycled polyester for stretchness, makes our Swim Trunks the perfect summer companion. As a first approach to swimwear, we aimed to create a classic and timeless addition to every man's wardrobe.</description>
                     <sizes>
@@ -897,7 +917,7 @@
             </type>
             <type name="T-shirts">
                 <item>
-                    <id>29</id>
+                    <id>30</id>
                     <name>Breton</name>
                     <description>A sophisticated approach to the classic marinaire. Crafted from a premium midweight jersey with horizontal stripes and long sleeves. An iconic piece perfect for anytime of the year. Every year.</description>
                     <sizes>
@@ -915,7 +935,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>30</id>
+                    <id>31</id>
                     <name>Classic T-Shirt</name>
                     <description>The Organic Cotton used in the production of this Classic T-Shirt is GOTS certified. The Global Organic Textile Standard (GOTS) is the worldwide leading textile processing standard for organic fibres, including ecological and social criteria, backed up by independent third-party certification of the entire textile supply chain.</description>
                     <sizes>
@@ -934,7 +954,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>31</id>
+                    <id>32</id>
                     <name>ISTO X SLOP HEAVYWEIGHT T-SHIRT</name>
                     <description>Crafted in collaboration with SLOP Magazine, this T-Shirt perfectly blends a relaxed yet classic fit with luxurious 270 g/sqm jersey, made from 100% Organic Cotton (GOTS Certified). The story behind? Funny enough, it all started during a late-night conversation about Portuguese food wonder, which took them to visit us and try some of the best seafood out there; leading to the main inspiration behind this piece and special embroidery.</description>
                     <sizes>
@@ -952,7 +972,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>32</id>
+                    <id>33</id>
                     <name>ISTO x lts</name>
                     <description>The Heavyweight T-Shirt embodies the perfect blend between a more relaxed (yet still a classic) fit and comfortable style. Crafted from a heavy 270 g/sqm Jersey composed of 100% Organic Cotton, this time it features the coolest print designed by Portuguese illustrator Lourenço Providência, a visual thinker and peace maker — there's nothing quite like the absolute peace we felt when discovering his work through minimalist, understated yet highly conversational artwork. Explore a collection of exclusive line illustrations inspired by the harmony between humans and nature.</description>
                     <sizes>
@@ -974,7 +994,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>33</id>
+                    <id>34</id>
                     <name>Ringer T-Shirt</name>
                     <description>With the same fit as the Classic T-Shirt, the Ringer T-Shirt features a beautiful Navy ribbed collar. Still a classic collar. And just the right shoulder length to get the sleeve height where it needs to be.</description>
                     <sizes>
@@ -990,7 +1010,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>34</id>
+                    <id>35</id>
                     <name>Striped T-Shirt</name>
                     <description>comfy and sustainable</description>
                     <sizes>
@@ -1007,7 +1027,7 @@
                     </images>
                 </item>
                 <item>
-                    <id>35</id>
+                    <id>36</id>
                     <name>White T-Shirt</name>
                     <description>Meet the Supima T-Shirt: straight from the best suppliers in Portugal and crafted from an extra long staple SUPIMA® cotton, this midweight (yet-the-best-thing-you-will-wear-in-years) T-Shirt has a straight cut and a classic fine-ribbed neckline for extra comfort. The SUPIMA® cotton represents less than 1% of cotton grown in the world and reinforces our brand mission: durability, softness and color retention. Perfect to be worn on every occasion.</description>
                     <sizes>

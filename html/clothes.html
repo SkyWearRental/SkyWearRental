@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="../images/logo/logo_name.png">
+    <link rel="icon" type="image/png" href="../images/logo/logo.png">
     <title>SkyWear Rental - Order</title>
     <link rel="stylesheet" href="../css/clothes.css">
     <script src="https://kit.fontawesome.com/0d045f7163.js" crossorigin="anonymous"></script>
@@ -15,7 +15,7 @@
     <div class="header-container">
         <header>
             <div class="logo-container">
-                <img class="logo" id="logo" src="../images/logo/logo_name.png">
+                <img class="logo" id="logo" src="../images/logo/logo.png">
             </div>
             <div class="icons-container">
                  <div class="suitcase-container">
@@ -28,7 +28,14 @@
         <div class="sub-header" id="dates-sub-header">
             <button id="filters-btn"><i class="fa-solid fa-sliders"></i></button>
             <div class="dates-container">
-                
+                <div class="date-box" id="arrival-box">
+                    <i class="fa-solid fa-plane-arrival"></i>
+                    <span class="date-value" id="arrival-date"></span>
+                </div>
+                <div class="date-box" id="retrieval-box">
+                    <i class="fa-solid fa-plane-departure"></i>
+                    <span class="date-value" id="retrieval-date"></span>
+                </div>
             </div>
             <div></div>
         </div>
@@ -40,15 +47,15 @@
                 <div class="gender">
                     <h3>gender</h3>
                     <div class="gender-buttons">
-                        <button id="male-btn" class="active" onclick ="toggleGender()">Male</button>
-                        <button id="female-btn" onclick="toggleGender()">Female</button>
+                        <button id="male-btn" class="active">Male</button>
+                        <button id="female-btn">Female</button>
                     </div>
                 </div>
                 <div class="order-by">
                     <h3>order by</h3>
                     <div class="order-buttons">
-                        <button class="active" id="brand-btn" onclick="toggleOrder()">Brands</button>
-                        <button id="type-btn" onclick="toggleOrder()">Clothing Type</button>
+                        <button class="active" id="brand-btn">Brands</button>
+                        <button id="type-btn">Clothing Type</button>
                     </div>
                 </div>
     
@@ -80,7 +87,7 @@
 
         <div id="overlay"></div>
         <div class="clothing-container" id="clothing-container">
-            <button id="scrollToTopBtn" onclick="scrollToTop()">
+            <button id="scroll-to-top">
                 <i class="fa-solid fa-arrow-up"></i>
             </button>
         </div>
@@ -89,11 +96,7 @@
     <div id="clothing-modal" class="modal">
         <div class="modal-content">
             <div class="modal-header">
-                <span id="close-cross-clothes" class="close-cross" onclick="closeModal()">&times;</span>
-            </div>
-            <div class="modal-carousel-container">
-            </div>
-            <div class="modal-description-container">
+                <span id="close-cross-clothes" class="close-cross">&times;</span>
             </div>
         </div>
     </div>
@@ -118,7 +121,7 @@
     <div class="modal" id="email-modal">
         <div class="modal-content">
             <div class="modal-header">
-                <span class="close-cross" onclick="closeEmailModal()">×</span>
+                <span id="close-cross-email" class="close-cross">×</span>
             </div>
             <div class="modal-body">
                 <h3>Please Enter Your Email</h3>
@@ -131,6 +134,6 @@
         </div>
     </div>
 
-    <script src="../js/clothes.js"></script>
+    <script type="module" src="../js/clothes/clothes.js"></script>
 </body>
 </html>
