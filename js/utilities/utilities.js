@@ -62,6 +62,14 @@ export function createImageCarousel(images, imageClass = "carousel-image") {
     return carouselContainer;
 }
 
+export function getRentingPrice(item){
+    const retailPriceStr = item.querySelector("retail-price") ? item.querySelector("retail-price").textContent : "0.00 $";
+    const retailPrice = parseFloat(retailPriceStr.replace(/[^0-9.]/g, ''))
+    const rentingPrice = Number(retailPrice) * 0.1;
+
+    return rentingPrice.toFixed(2);
+}
+
 export function isActive(element){
     return element.classList.contains("active");
 }

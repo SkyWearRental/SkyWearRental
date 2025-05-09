@@ -2,7 +2,8 @@ import {
     closeModal,
     showModal,
     createElement,
-    createImageCarousel
+    createImageCarousel,
+    getRentingPrice
 } from "../utilities/utilities.js";
 
 import { addToCart } from "./cart.js";
@@ -23,9 +24,9 @@ function createClothingCard(item){
     description.textContent = item.querySelector("name").textContent;
     descriptionContainer.appendChild(description);
     
-    const rentalPrice = item.querySelector("renting-price") ? item.querySelector("renting-price").textContent : "0.00 $";
+    const rentingPrice = getRentingPrice(item);
     const priceTag = createElement("p", "price-tag");
-    priceTag.textContent = `${rentalPrice} / week`;
+    priceTag.textContent = `${rentingPrice} € / week`;
     descriptionContainer.appendChild(priceTag);
     
     card.appendChild(descriptionContainer);
@@ -90,7 +91,7 @@ function addModalBehavior(card, item){
             const brand = item.closest("brand") ? item.closest("brand").getAttribute("name") : "Unknown Brand";
             const description = item.querySelector("description").textContent;
             const retailPrice = item.querySelector("retail-price") ? item.querySelector("retail-price").textContent : "Price not available";
-            const rentalPrice = item.querySelector("renting-price") ? item.querySelector("renting-price").textContent : "Price not available";
+            const rentalPrice = getRentingPrice(item);
             const sizes = item.querySelectorAll("size");
 
             if(modalContent.children.length > 1){
