@@ -73,3 +73,11 @@ export function getRentingPrice(item){
 export function isActive(element){
     return element.classList.contains("active");
 }
+
+export function emptyPage(){
+    const clothingContainer = document.getElementById("clothing-container");
+    const scrollToTopBtn    = document.getElementById("scroll-to-top");
+
+    clothingContainer.innerHTML = "";
+    clothingContainer.appendChild(scrollToTopBtn);
+}

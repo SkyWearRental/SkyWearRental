@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     redirectTo(startingState);
     */
     localStorage.clear();
-    redirectTo("flight-number");
+    redirectTo("start");
 });
 
 function getStoredData(){

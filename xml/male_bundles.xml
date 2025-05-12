@@ -1,0 +1,2343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<clothing_bundles>
+    <bundle type="winter" id="1">
+        <jackets>
+            <item>
+                <id>1</id>
+                <name>JACKET CANVAS SPECIAL EDITION BIG SHARK</name>
+                <description>The JACKET CANVAS SPECIAL EDITION BIG SHARK combines eco-friendly style with a bold design. Made from 100% organic cotton in Portugal, it features a durable 390 g/sqm fabric, pigment-dyed finish, and practical front pockets. The standout: a large shark patch on the back for an adventurous touch.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€118.8</retail-price>
+                <renting-price>€17.8</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.51.png</image>
+                    <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.42.57.png</image>
+                    <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.04.png</image>
+                    <image>../images/clothes/Male/+351/Jackets/JACKET CANVAS SPECIAL EDITION BIG SHARK/Screenshot_2025-03-03_at_20.43.16.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>10</id>
+                <name>Heavy Wool Jacket</name>
+                <description>Meet a chunkier take on a classic: our iconic Recycled Wool Work Jacket. Crafted from the same Manteco's renowned MWool® (Recycled Wool) in Italy, this Jacket is heavier than ever, with 590 g/sqm. With its slightly more relaxed fit, it's perfect for layering season. And thanks to a zero-waste production process and a closed-loop recycling system that continuously reuses wool, we can say that, paired with a timeless design and next-level warmth, it also reinforces our brand mission.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€395.00</retail-price>
+                <renting-price>€39.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.30.46.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.35.41.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.35.50.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.36.01.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Heavy Wool Jacket/Screenshot_2025-03-03_at_19.36.14.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </jackets>
+        <sweaters>
+            <item>
+                <id>1</id>
+                <name>Connection Crewneck Sweater</name>
+                <description>100% organic cotton 230gsm. \nLoopback fleece \nScreen printed. \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.13.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.35.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.46.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>3</id>
+                <name>Knit Sweater</name>
+                <description>40% viscose, 30% polyamide, 25% extrafine wool, 5% cashmere \nUnisex. Relaxed fit \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.18.44.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.00.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.15.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.21.11.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>2</id>
+                <name>Good Times Crewneck Sweater</name>
+                <description>100% organic cotton 230gsm. \nLoopback fleece \nScreen printed. Acid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.31.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.41.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.50.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+        </sweaters>
+        <tshirts>
+            <item>
+                <id>10</id>
+                <name>Graphic T-Shirt</name>
+                <description>Our Graphic T-Shirt features a bold shark print on an off-white base. Made from soft, breathable cotton, it combines comfort with a playful, adventurous style. Perfect for adding a standout touch to any casual look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€39.00</retail-price>
+                <renting-price>€7.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.15.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.29.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.43.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>33</id>
+                <name>ISTO x lts</name>
+                <description>The Heavyweight T-Shirt embodies the perfect blend between a more relaxed (yet still a classic) fit and comfortable style. Crafted from a heavy 270 g/sqm Jersey composed of 100% Organic Cotton, this time it features the coolest print designed by Portuguese illustrator Lourenço Providência, a visual thinker and peace maker — there's nothing quite like the absolute peace we felt when discovering his work through minimalist, understated yet highly conversational artwork. Explore a collection of exclusive line illustrations inspired by the harmony between humans and nature.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€55.00</retail-price>
+                <renting-price>€11.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.22.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.48.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.58.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.57.08.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.15.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.28.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.47.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>12</id>
+                <name>Long Sleeve Striped T-Shirt</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€54.00</retail-price>
+                <renting-price>€10.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.40.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>31</id>
+                <name>Classic T-Shirt</name>
+                <description>The Organic Cotton used in the production of this Classic T-Shirt is GOTS certified. The Global Organic Textile Standard (GOTS) is the worldwide leading textile processing standard for organic fibres, including ecological and social criteria, backed up by independent third-party certification of the entire textile supply chain.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€40.00</retail-price>
+                <renting-price>€8.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.01.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.25.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.04.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.38.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>13</id>
+                <name>North Atlantic T-Shirt</name>
+                <description>Cut from our signature 100% organic Flamê cotton, the Atlantic t-shirt pays homage to what inspires us the most - the ocean.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€70.00</retail-price>
+                <renting-price>€14.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.15.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.22.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </tshirts>
+        <pants>
+            <item>
+                <id>14</id>
+                <name>Pleated Corduroy</name>
+                <description>Italian fabric at its best, with a classic cut that is versatile enough to look casual or formal depending on circumstances. You choose. Tapered fit to perfection. Can be paired with our Corduroy Work Jacket for an elevated look combining style and comfort.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€125.00</retail-price>
+                <renting-price>€18.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.01.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.11.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.29.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.46.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.00.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.33.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.45.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.55.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.44.10.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>5</id>
+                <name>SWEATPANTS CHARCOAL</name>
+                <description>Cut from 100% organic Plush cotton, our medium-weight sweatpants are designed to be comfortable and stylish with a relaxed fit. Team yours with the matching hoodie and a timeless Essential t-shirt.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€120.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.44.55.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.10.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.23.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.49.28.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </pants>
+        <accessories>
+            <item>
+                <id>2</id>
+                <name>Knitted Reversible Scarf</name>
+                <description>Keep yourself warm and stylish from the subtle breeze.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>34.50€</retail-price>
+                <renting-price>6.90</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.32.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.40.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.48.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="winter" id="2">
+        <jackets>
+            <item>
+                <id>8</id>
+                <name>Curduoy Jacket</name>
+                <description>With the same fit as our classic Work Jacket and a premium Italian fabric, this Jacket has an unparalleled vintage charm but with a modern twist. Pair it with our Pleated Corduroy Trousers and there you have it: The ultimate outfit that can seamlessly transition from a 1970s jazz club to a modern-day urban cafe.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€215.00</retail-price>
+                <renting-price>€32.25</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.42.29.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.42.38.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Curduoy Jacket/Screenshot_2025-03-03_at_19.42.45.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>12</id>
+                <name>Recycled Work Jacket</name>
+                <description>Made of 100% Recycled Wool (MWool® by Manteco - the next generation of recycled wool, obtained by recycling highly-selected post-consumer garments and pre-consumer leftovers), this Jacket is an ultra-premium and enduring piece on every men's wardrobe. It features all the natural characteristics of virgin wool but has the lowest impact possible. This Midweight Jacket is perfect for mid-season. For wintery weather, we recommend some extra layers for additional warmth and comfort. With our regular Work Jacket silhouette and elegant two front pockets, this version should age beautifully throughout the years due to its Recype® color process - no added dyes and chemicals; the colors are created by mixing numerous and different shades of recycled wool fibers.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€198.00</retail-price>
+                <renting-price>€19.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.23.39.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.23.51.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.00.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.18.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.27.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Recycled Work Jacket/Screenshot_2025-03-03_at_19.24.51.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </jackets>
+        <sweaters>
+            <item>
+                <id>3</id>
+                <name>Knit Sweater</name>
+                <description>40% viscose, 30% polyamide, 25% extrafine wool, 5% cashmere \nUnisex. Relaxed fit \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.18.44.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.00.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.15.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.21.11.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>1</id>
+                <name>Connection Crewneck Sweater</name>
+                <description>100% organic cotton 230gsm. \nLoopback fleece \nScreen printed. \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.13.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.35.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.46.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>28</id>
+                <name>Hoodie</name>
+                <description>Carefully constructed from a beautiful organic diagonal loopback French Terry, this Hoodie features a handy front pocket for maximum comfort and a relaxed double-layer hoodie that will help it stand the test of time. Mid to high 380 g/sqm jersey for an extra luxury touch.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€67.00</retail-price>
+                <renting-price>€10.05</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.27.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.43.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.59.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.30.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.38.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.45.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </sweaters>
+        <tshirts>
+            <item>
+                <id>7</id>
+                <name>Island Records T-Shirt</name>
+                <description>100% cotton jersey 230 gsm. \n1x1 ribbed collar \nUnisex. Regular fit \nGraphic screen-printed on chest and back \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€22.50</retail-price>
+                <renting-price>€4.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.24.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.29.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.36.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.42.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.49.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>36</id>
+                <name>White T-Shirt</name>
+                <description>Meet the Supima T-Shirt: straight from the best suppliers in Portugal and crafted from an extra long staple SUPIMA® cotton, this midweight (yet-the-best-thing-you-will-wear-in-years) T-Shirt has a straight cut and a classic fine-ribbed neckline for extra comfort. The SUPIMA® cotton represents less than 1% of cotton grown in the world and reinforces our brand mission: durability, softness and color retention. Perfect to be worn on every occasion.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€55.00</retail-price>
+                <renting-price>€11.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.43.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.53.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.58.04.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>12</id>
+                <name>Long Sleeve Striped T-Shirt</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€54.00</retail-price>
+                <renting-price>€10.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.40.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>6</id>
+                <name>Heat Waves T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. \n1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>34</id>
+                <name>Ringer T-Shirt</name>
+                <description>With the same fit as the Classic T-Shirt, the Ringer T-Shirt features a beautiful Navy ribbed collar. Still a classic collar. And just the right shoulder length to get the sleeve height where it needs to be.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€45.00</retail-price>
+                <renting-price>€9.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.02.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.25.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </tshirts>
+        <pants>
+            <item>
+                <id>14</id>
+                <name>Pleated Corduroy</name>
+                <description>Italian fabric at its best, with a classic cut that is versatile enough to look casual or formal depending on circumstances. You choose. Tapered fit to perfection. Can be paired with our Corduroy Work Jacket for an elevated look combining style and comfort.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€125.00</retail-price>
+                <renting-price>€18.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.01.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.11.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.29.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.42.46.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.00.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.33.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.45.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.43.55.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Pleated Corduroy/Screenshot_2025-03-03_at_18.44.10.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>15</id>
+                <name>Wool Trousers</name>
+                <description>Tailored warmth, fully regenerated. Meet the Wool Trousers - these pleated, tapered-fit trousers are made from 100% Recycled Wool (MWool® by Manteco). What this means? You'll get all the warmth and comfort of virgin wool but with a fraction of the environmental impact. At 400 g/sqm, they strike the perfect balance between heft and ease, ideal for colder days. And the cherry on top: they can be paired with our Wool Jackets. Same fabric, same tone, same high-quality without compromising on price point.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.40.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.48.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.57.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.36.05.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </pants>
+        <accessories>
+            <item>
+                <id>3</id>
+                <name>Upcycled Bandana</name>
+                <description>Keep the style.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€35.00</retail-price>
+                <renting-price>€7.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.57.59.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.58.04.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.19.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="winter" id="3">
+        <jackets>
+            <item>
+                <id>2</id>
+                <name>Jacket la dolce vita</name>
+                <description>Stay relaxed and stylish all summer long with the Jacket La Dolce Vita. This relaxed jacket embodies the carefree spirit of the Italian "dolce vita" lifestyle. Cozy texture made small cors. Perfect for any summer adventure. Designed in collaboration with Joana Astolfi.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€190.00</retail-price>
+                <renting-price>€28.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.28.png</image>
+                    <image>../images/clothes/Male/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.38.png</image>
+                    <image>../images/clothes/Male/+351/Jackets/Jacket la dolce vita/Screenshot_2025-03-03_at_20.41.50.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>9</id>
+                <name>Deadstock Blazer</name>
+                <description>After the first round's success (thanks to you), we took another deep dive into the hidden treasures of Diniz and Cruz to save more deadstock fabrics and make ultra-rare and unrepeatable Blazers. And now, as one of our top clients, you're getting first access. These Blazers aren't making it to the shelves just yet. Instead, they're available to a closed group of the previous rounds' main supporters. Order now, and in two weeks, your chosen one-of-a-kind piece will be in your hands - before anyone else even knows they exist.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€595.00</retail-price>
+                <renting-price>€59.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.39.52.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.03.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.13.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.25.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.40.43.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.41.07.png</image>
+                    <image>../images/clothes/Male/ISTO/Jackets/Deadstock Blazer/Screenshot_2025-03-03_at_19.41.18.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </jackets>
+        <sweaters>
+            <item>
+                <id>26</id>
+                <name>Cotton Sweater</name>
+                <description>Made with best-in-class 100% organic cotton from Italy, this sweater is carefully knitted at our specialized knitwear Portuguese supplier Orfama. With a half-cardigan fit and soft hand feel, it is the perfect staple to cozy you up 365 days a year.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€145.00</retail-price>
+                <renting-price>€21.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.19.55.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.20.04.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.27.26.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.27.43.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>2</id>
+                <name>Good Times Crewneck Sweater</name>
+                <description>100% organic cotton 230gsm. \nLoopback fleece \nScreen printed. Acid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.31.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.41.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.50.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>1</id>
+                <name>Connection Crewneck Sweater</name>
+                <description>100% organic cotton 230gsm. \nLoopback fleece \nScreen printed. \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.13.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.35.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.46.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+        </sweaters>
+        <tshirts>
+            <item>
+                <id>9</id>
+                <name>Tropical T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. 1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest and back \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.39.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.53.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.59.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.08.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.28.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>36</id>
+                <name>White T-Shirt</name>
+                <description>Meet the Supima T-Shirt: straight from the best suppliers in Portugal and crafted from an extra long staple SUPIMA® cotton, this midweight (yet-the-best-thing-you-will-wear-in-years) T-Shirt has a straight cut and a classic fine-ribbed neckline for extra comfort. The SUPIMA® cotton represents less than 1% of cotton grown in the world and reinforces our brand mission: durability, softness and color retention. Perfect to be worn on every occasion.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€55.00</retail-price>
+                <renting-price>€11.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.43.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.53.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.58.04.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>31</id>
+                <name>Classic T-Shirt</name>
+                <description>The Organic Cotton used in the production of this Classic T-Shirt is GOTS certified. The Global Organic Textile Standard (GOTS) is the worldwide leading textile processing standard for organic fibres, including ecological and social criteria, backed up by independent third-party certification of the entire textile supply chain.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€40.00</retail-price>
+                <renting-price>€8.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.01.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.25.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.04.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.38.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>1</id>
+                <name>Core Sleeveless Performance Top</name>
+                <description>Turn up the heat. Built to show off your gains, this slim-fit tank keeps you cool with its lightweight, sweat-wicking fabric.- Perfect for crushing your workouts while looking sharp. \n- Sleeveless \n- Slim fit \nLightweight and medium compression</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€29.00</retail-price>
+                <renting-price>€5.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.33.png</image>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.39.png</image>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.43.png</image>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.07.01.png</image>
+                </images>
+                <brand>GASA Sportswear</brand>
+            </item>
+            <item>
+                <id>30</id>
+                <name>Breton</name>
+                <description>A sophisticated approach to the classic marinaire. Crafted from a premium midweight jersey with horizontal stripes and long sleeves. An iconic piece perfect for anytime of the year. Every year.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€65.00</retail-price>
+                <renting-price>€9.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.13.51.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.13.57.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.14.05.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Breton/Screenshot_2025-03-03_at_20.14.13.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </tshirts>
+        <pants>
+            <item>
+                <id>13</id>
+                <name>Denim Trousers</name>
+                <description>Composed of a 12 3/4 Oz Italian organic cotton selvedge denim woven on rare shuttle looms from Candiani, these high-density jeans create a more straightforward, clean and sophisticated look. An extremely soft yet durable fabric that makes it ideal for a timeless piece.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.51.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.31.14.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.20.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.47.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.14.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.23.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.43.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>5</id>
+                <name>SWEATPANTS CHARCOAL</name>
+                <description>Cut from 100% organic Plush cotton, our medium-weight sweatpants are designed to be comfortable and stylish with a relaxed fit. Team yours with the matching hoodie and a timeless Essential t-shirt.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€120.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.44.55.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.10.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.23.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.49.28.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </pants>
+        <accessories>
+            <item>
+                <id>1</id>
+                <name>Essential Knitted Scarf</name>
+                <description>Keep yourself warm from the subtle breeze.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€34.50</retail-price>
+                <renting-price>€6.90</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.45.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.55.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.18.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.41.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="summer" id="1">
+        <tshirts>
+            <item>
+                <id>1</id>
+                <name>Core Sleeveless Performance Top</name>
+                <description>Turn up the heat. Built to show off your gains, this slim-fit tank keeps you cool with its lightweight, sweat-wicking fabric.- Perfect for crushing your workouts while looking sharp. \n- Sleeveless \n- Slim fit \nLightweight and medium compression</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€29.00</retail-price>
+                <renting-price>€5.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.33.png</image>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.39.png</image>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.06.43.png</image>
+                    <image>../images/clothes/Male/GASA Sportswear/T-Shirts/Core Sleeveless Performance Top/Screenshot_2025-03-04_at_17.07.01.png</image>
+                </images>
+                <brand>GASA Sportswear</brand>
+            </item>
+            <item>
+                <id>34</id>
+                <name>Ringer T-Shirt</name>
+                <description>With the same fit as the Classic T-Shirt, the Ringer T-Shirt features a beautiful Navy ribbed collar. Still a classic collar. And just the right shoulder length to get the sleeve height where it needs to be.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€45.00</retail-price>
+                <renting-price>€9.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.02.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Ringer T-Shirt/Screenshot_2025-03-03_at_20.11.25.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>7</id>
+                <name>Island Records T-Shirt</name>
+                <description>100% cotton jersey 230 gsm. \n1x1 ribbed collar \nUnisex. Regular fit \nGraphic screen-printed on chest and back \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€22.50</retail-price>
+                <renting-price>€4.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.24.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.29.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.36.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.42.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Island Records T-Shirt/Screenshot_2025-03-04_at_15.27.49.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>33</id>
+                <name>ISTO x lts</name>
+                <description>The Heavyweight T-Shirt embodies the perfect blend between a more relaxed (yet still a classic) fit and comfortable style. Crafted from a heavy 270 g/sqm Jersey composed of 100% Organic Cotton, this time it features the coolest print designed by Portuguese illustrator Lourenço Providência, a visual thinker and peace maker — there's nothing quite like the absolute peace we felt when discovering his work through minimalist, understated yet highly conversational artwork. Explore a collection of exclusive line illustrations inspired by the harmony between humans and nature.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€55.00</retail-price>
+                <renting-price>€11.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.22.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.48.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.58.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.57.08.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.15.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.28.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.47.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>35</id>
+                <name>Striped T-Shirt</name>
+                <description>comfy and sustainable</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€45.00</retail-price>
+                <renting-price>€9.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.14.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.23.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.32.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>8</id>
+                <name>Other Destinations T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. 1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.26.54.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Other Destinations T-Shirt/Screenshot_2025-03-04_at_15.27.04.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>11</id>
+                <name>LONG SLEEVE TERRY STONED</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€57.00</retail-price>
+                <renting-price>€11.40</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.43.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.52.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.37.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.55.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </tshirts>
+        <shorts>
+            <item>
+                <id>6</id>
+                <name>Shorts</name>
+                <description>Cut from 100% organic Plush cotton-jersey, these light-weight walkshorts are designed to be comfortable and stylish with a relaxed fit. Team yours with our timeless Essential t-shirt and a Zip hoodie.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€85.00</retail-price>
+                <renting-price>€12.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.20.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.27.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.32.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>7</id>
+                <name>WALKSHORTS LEOPARD GREEN</name>
+                <description>comfy, stylish, sustainable</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€90.00</retail-price>
+                <renting-price>€13.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.31.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.41.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.51.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </shorts>
+        <pants>
+            <item>
+                <id>1</id>
+                <name>Sweatpants</name>
+                <description>comfy and sustainable.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€80.00</retail-price>
+                <renting-price>€12.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.31.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.35.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.40.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.46.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.49.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.55.png</image>
+                </images>
+                <brand>Barrio Santo</brand>
+            </item>
+        </pants>
+        <hats>
+            <item>
+                <id>6</id>
+                <name>Seagul Blue Hat</name>
+                <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/Seagul Blue Hat/Screenshot_2025-03-03_at_19.45.50.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>7</id>
+                <name>White Chair Blue Hat</name>
+                <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/White Chair Blue Hat/Screenshot_2025-03-03_at_19.46.00.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </hats>
+        <sweaters>
+            <item>
+                <id>27</id>
+                <name>Heavy Wool Sweater</name>
+                <description>Crafted from a Luxury 100% Heavy Merino Wool fabric, this chunky 5gg fully fashioned Sweater is ready to become your everyday essential during wintery weather. With a straight and relaxed fit, it can be worn with or without additional layers but one thing is for sure: it can go through several weather conditions and stay impeccable. This is a guaranteed though one, test it out.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€27.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.10.56.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.11.13.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.11.46.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.12.04.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.13.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.34.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </sweaters>
+        <accessories>
+            <item>
+                <id>1</id>
+                <name>Essential Knitted Scarf</name>
+                <description>Keep yourself warm from the subtle breeze.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€34.50</retail-price>
+                <renting-price>€6.90</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.45.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.55.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.18.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.41.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="summer" id="2">
+        <tshirts>
+            <item>
+                <id>12</id>
+                <name>Long Sleeve Striped T-Shirt</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€54.00</retail-price>
+                <renting-price>€10.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.40.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>6</id>
+                <name>Heat Waves T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. \n1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>9</id>
+                <name>Tropical T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. 1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest and back \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.39.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.53.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.59.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.08.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.28.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>31</id>
+                <name>Classic T-Shirt</name>
+                <description>The Organic Cotton used in the production of this Classic T-Shirt is GOTS certified. The Global Organic Textile Standard (GOTS) is the worldwide leading textile processing standard for organic fibres, including ecological and social criteria, backed up by independent third-party certification of the entire textile supply chain.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€40.00</retail-price>
+                <renting-price>€8.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.01.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.25.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.04.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.38.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>10</id>
+                <name>Graphic T-Shirt</name>
+                <description>Our Graphic T-Shirt features a bold shark print on an off-white base. Made from soft, breathable cotton, it combines comfort with a playful, adventurous style. Perfect for adding a standout touch to any casual look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€39.00</retail-price>
+                <renting-price>€7.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.15.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.29.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.43.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>32</id>
+                <name>ISTO X SLOP HEAVYWEIGHT T-SHIRT</name>
+                <description>Crafted in collaboration with SLOP Magazine, this T-Shirt perfectly blends a relaxed yet classic fit with luxurious 270 g/sqm jersey, made from 100% Organic Cotton (GOTS Certified). The story behind? Funny enough, it all started during a late-night conversation about Portuguese food wonder, which took them to visit us and try some of the best seafood out there; leading to the main inspiration behind this piece and special embroidery.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€55.00</retail-price>
+                <renting-price>€11.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.12.20.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.12.27.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.12.45.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO X SLOP HEAVYWEIGHT T-SHIRT/Screenshot_2025-03-03_at_20.13.00.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>13</id>
+                <name>North Atlantic T-Shirt</name>
+                <description>Cut from our signature 100% organic Flamê cotton, the Atlantic t-shirt pays homage to what inspires us the most - the ocean.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€70.00</retail-price>
+                <renting-price>€14.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.15.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.22.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </tshirts>
+        <shorts>
+            <item>
+                <id>21</id>
+                <name>Curduroy Shorts</name>
+                <description>Are you looking for versatility? Maybe you want a pair of shorts that you can wear to the beach and then to the beach club afterward? Well, meet the Corduroy Shorts you will wear all summer long. Made with organic cotton, they have an intentionally oversized fit for a more relaxed look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€85.00</retail-price>
+                <renting-price>€12.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.48.47.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.48.55.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.10.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.18.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.43.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.57.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>6</id>
+                <name>Shorts</name>
+                <description>Cut from 100% organic Plush cotton-jersey, these light-weight walkshorts are designed to be comfortable and stylish with a relaxed fit. Team yours with our timeless Essential t-shirt and a Zip hoodie.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€85.00</retail-price>
+                <renting-price>€12.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.20.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.27.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.32.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </shorts>
+        <pants>
+            <item>
+                <id>15</id>
+                <name>Wool Trousers</name>
+                <description>Tailored warmth, fully regenerated. Meet the Wool Trousers - these pleated, tapered-fit trousers are made from 100% Recycled Wool (MWool® by Manteco). What this means? You'll get all the warmth and comfort of virgin wool but with a fraction of the environmental impact. At 400 g/sqm, they strike the perfect balance between heft and ease, ideal for colder days. And the cherry on top: they can be paired with our Wool Jackets. Same fabric, same tone, same high-quality without compromising on price point.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.40.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.48.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.57.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.36.05.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </pants>
+        <hats>
+            <item>
+                <id>7</id>
+                <name>White Chair Blue Hat</name>
+                <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/White Chair Blue Hat/Screenshot_2025-03-03_at_19.46.00.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>5</id>
+                <name>Merino Wool Beanie</name>
+                <description>Knitted from 100% Extra-Fine Merino Wool, this double folded, extra-soft yet structured Beanie is crafted from luxury Italian yarns and carefully knitted by our portuguese specialist Orfama. Everything to keep you warm on that winter night or stylish at the party. Mulesing-free.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.25.png</image>
+                    <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.35.png</image>
+                    <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.43.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </hats>
+        <sweaters>
+            <item>
+                <id>8</id>
+                <name>Hoodie Cru</name>
+                <description>Cut from 100% organic Plush cotton, our hoodie is the perfect piece to wear after a late surf session...</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€130.00</retail-price>
+                <renting-price>€19.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.05.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.16.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.26.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.47.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.40.04.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </sweaters>
+        <accessories>
+            <item>
+                <id>3</id>
+                <name>Upcycled Bandana</name>
+                <description>Keep the style.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€35.00</retail-price>
+                <renting-price>€7.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.57.59.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.58.04.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.19.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="summer" id="3">
+        <tshirts>
+            <item>
+                <id>35</id>
+                <name>Striped T-Shirt</name>
+                <description>comfy and sustainable</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€45.00</retail-price>
+                <renting-price>€9.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.14.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.23.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Striped T-Shirt/Screenshot_2025-03-03_at_18.19.32.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>36</id>
+                <name>White T-Shirt</name>
+                <description>Meet the Supima T-Shirt: straight from the best suppliers in Portugal and crafted from an extra long staple SUPIMA® cotton, this midweight (yet-the-best-thing-you-will-wear-in-years) T-Shirt has a straight cut and a classic fine-ribbed neckline for extra comfort. The SUPIMA® cotton represents less than 1% of cotton grown in the world and reinforces our brand mission: durability, softness and color retention. Perfect to be worn on every occasion.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€55.00</retail-price>
+                <renting-price>€11.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.43.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.57.53.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/White T-Shirt/Screenshot_2025-03-03_at_16.58.04.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>6</id>
+                <name>Heat Waves T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. \n1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>11</id>
+                <name>LONG SLEEVE TERRY STONED</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€57.00</retail-price>
+                <renting-price>€11.40</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.43.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.52.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.37.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.55.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>13</id>
+                <name>North Atlantic T-Shirt</name>
+                <description>Cut from our signature 100% organic Flamê cotton, the Atlantic t-shirt pays homage to what inspires us the most - the ocean.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€70.00</retail-price>
+                <renting-price>€14.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.15.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.22.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>14</id>
+                <name>Ocean Life T-Shirt</name>
+                <description>Ride the tide with our Charcoal "Ocean Life" T-Shirt. Featuring a striking "Ocean Life" print in mecca on the front, this tee delivers laid-back coastal vibes with a modern edge. Made from premium Portuguese cotton for all-day comfort, it's an easy choice for a fresh, relaxed look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€42.00</retail-price>
+                <renting-price>€8.40</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.07.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.20.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.29.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>31</id>
+                <name>Classic T-Shirt</name>
+                <description>The Organic Cotton used in the production of this Classic T-Shirt is GOTS certified. The Global Organic Textile Standard (GOTS) is the worldwide leading textile processing standard for organic fibres, including ecological and social criteria, backed up by independent third-party certification of the entire textile supply chain.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€40.00</retail-price>
+                <renting-price>€8.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.01.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.25.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.04.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.38.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </tshirts>
+        <shorts>
+            <item>
+                <id>6</id>
+                <name>Shorts</name>
+                <description>Cut from 100% organic Plush cotton-jersey, these light-weight walkshorts are designed to be comfortable and stylish with a relaxed fit. Team yours with our timeless Essential t-shirt and a Zip hoodie.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€85.00</retail-price>
+                <renting-price>€12.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.20.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.27.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.32.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/Shorts/Screenshot_2025-03-03_at_20.50.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>7</id>
+                <name>WALKSHORTS LEOPARD GREEN</name>
+                <description>comfy, stylish, sustainable</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€90.00</retail-price>
+                <renting-price>€13.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.31.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.41.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.51.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </shorts>
+        <pants>
+            <item>
+                <id>15</id>
+                <name>Wool Trousers</name>
+                <description>Tailored warmth, fully regenerated. Meet the Wool Trousers - these pleated, tapered-fit trousers are made from 100% Recycled Wool (MWool® by Manteco). What this means? You'll get all the warmth and comfort of virgin wool but with a fraction of the environmental impact. At 400 g/sqm, they strike the perfect balance between heft and ease, ideal for colder days. And the cherry on top: they can be paired with our Wool Jackets. Same fabric, same tone, same high-quality without compromising on price point.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.40.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.48.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.57.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.36.05.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </pants>
+        <hats>
+            <item>
+                <id>6</id>
+                <name>Seagul Blue Hat</name>
+                <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/Seagul Blue Hat/Screenshot_2025-03-03_at_19.45.50.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>2</id>
+                <name>Beer Pint Beige Hat</name>
+                <description> Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/Beer Pint Beige Hat/Screenshot_2025-03-03_at_19.45.42.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </hats>
+        <sweaters>
+            <item>
+                <id>25</id>
+                <name>Cashmiere Sweater</name>
+                <description>Combed by hand from pure mongolian mountain goats, our Cashmere Sweater is the ultimate luxury staple of our permanent collection. We've chosen the longest and finest fibres - from world-famous Italian mill Cariaggi - to obtain the strongest yarn. Everyday comfort to use with or without layers.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€395.00</retail-price>
+                <renting-price>€39.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.02.39.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.02.50.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.06.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.16.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.46.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.04.00.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </sweaters>
+        <accessories>
+            <item>
+                <id>4</id>
+                <name>Vegan Leather Essential Belt</name>
+                <description>Description of Vegan Leather Essential Belt</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€15.75</retail-price>
+                <renting-price>€3.15</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.24.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.31.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Vegan Leather Essential Belt/Screenshot_2025-03-04_at_15.51.37.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="spring" id="1">
+        <sweaters>
+            <item>
+                <id>1</id>
+                <name>Connection Crewneck Sweater</name>
+                <description>100% organic cotton 230gsm. \nLoopback fleece \nScreen printed. \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.13.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.35.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Connection Crewneck Sweater/Screenshot_2025-03-04_at_15.20.46.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>27</id>
+                <name>Heavy Wool Sweater</name>
+                <description>Crafted from a Luxury 100% Heavy Merino Wool fabric, this chunky 5gg fully fashioned Sweater is ready to become your everyday essential during wintery weather. With a straight and relaxed fit, it can be worn with or without additional layers but one thing is for sure: it can go through several weather conditions and stay impeccable. This is a guaranteed though one, test it out.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€27.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.10.56.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.11.13.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.11.46.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.12.04.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.13.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Heavy Wool Sweater/Screenshot_2025-03-03_at_18.17.34.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>25</id>
+                <name>Cashmiere Sweater</name>
+                <description>Combed by hand from pure mongolian mountain goats, our Cashmere Sweater is the ultimate luxury staple of our permanent collection. We've chosen the longest and finest fibres - from world-famous Italian mill Cariaggi - to obtain the strongest yarn. Everyday comfort to use with or without layers.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€395.00</retail-price>
+                <renting-price>€39.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.02.39.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.02.50.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.06.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.16.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.03.46.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cashmiere Sweater/Screenshot_2025-03-03_at_18.04.00.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </sweaters>
+        <tshirts>
+            <item>
+                <id>12</id>
+                <name>Long Sleeve Striped T-Shirt</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€54.00</retail-price>
+                <renting-price>€10.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.40.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>10</id>
+                <name>Graphic T-Shirt</name>
+                <description>Our Graphic T-Shirt features a bold shark print on an off-white base. Made from soft, breathable cotton, it combines comfort with a playful, adventurous style. Perfect for adding a standout touch to any casual look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€39.00</retail-price>
+                <renting-price>€7.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.15.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.29.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Graphic T-Shirt/Screenshot_2025-03-03_at_20.18.43.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>13</id>
+                <name>North Atlantic T-Shirt</name>
+                <description>Cut from our signature 100% organic Flamê cotton, the Atlantic t-shirt pays homage to what inspires us the most - the ocean.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€70.00</retail-price>
+                <renting-price>€14.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.15.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/North Atlantic T-Shirt/Screenshot_2025-03-03_at_20.21.22.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>14</id>
+                <name>Ocean Life T-Shirt</name>
+                <description>Ride the tide with our Charcoal "Ocean Life" T-Shirt. Featuring a striking "Ocean Life" print in mecca on the front, this tee delivers laid-back coastal vibes with a modern edge. Made from premium Portuguese cotton for all-day comfort, it's an easy choice for a fresh, relaxed look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€42.00</retail-price>
+                <renting-price>€8.40</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.07.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.20.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Ocean Life T-Shirt/Screenshot_2025-03-03_at_20.24.29.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </tshirts>
+        <shorts>
+            <item>
+                <id>2</id>
+                <name>Jogging Shorts</name>
+                <description>comfy and sustainable.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€70.00</retail-price>
+                <renting-price>€10.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.00.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.04.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.37.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.43.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.50.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Shorts/Jogging Shorts/Screenshot_2025-03-04_at_17.10.54.png</image>
+                </images>
+                <brand>Barrio Santo</brand>
+            </item>
+        </shorts>
+        <pants>
+            <item>
+                <id>5</id>
+                <name>SWEATPANTS CHARCOAL</name>
+                <description>Cut from 100% organic Plush cotton, our medium-weight sweatpants are designed to be comfortable and stylish with a relaxed fit. Team yours with the matching hoodie and a timeless Essential t-shirt.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€120.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.44.55.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.10.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.45.23.png</image>
+                    <image>../images/clothes/Male/+351/Pants/SWEATPANTS CHARCOAL/Screenshot_2025-03-03_at_20.49.28.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>13</id>
+                <name>Denim Trousers</name>
+                <description>Composed of a 12 3/4 Oz Italian organic cotton selvedge denim woven on rare shuttle looms from Candiani, these high-density jeans create a more straightforward, clean and sophisticated look. An extremely soft yet durable fabric that makes it ideal for a timeless piece.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.51.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.31.14.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.20.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.47.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.14.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.23.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.43.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </pants>
+        <hats>
+            <item>
+                <id>7</id>
+                <name>White Chair Blue Hat</name>
+                <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/White Chair Blue Hat/Screenshot_2025-03-03_at_19.46.00.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </hats>
+        <accessories>
+            <item>
+                <id>2</id>
+                <name>Knitted Reversible Scarf</name>
+                <description>Keep yourself warm and stylish from the subtle breeze.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>34.50€</retail-price>
+                <renting-price>6.90</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.32.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.40.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Knitted Reversible Scarf/Screenshot_2025-03-04_at_16.02.48.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="spring" id="2">
+        <sweaters>
+            <item>
+                <id>3</id>
+                <name>Knit Sweater</name>
+                <description>40% viscose, 30% polyamide, 25% extrafine wool, 5% cashmere \nUnisex. Relaxed fit \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.18.44.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.00.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.19.15.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Knit Sweater/Screenshot_2025-03-04_at_15.21.11.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>28</id>
+                <name>Hoodie</name>
+                <description>Carefully constructed from a beautiful organic diagonal loopback French Terry, this Hoodie features a handy front pocket for maximum comfort and a relaxed double-layer hoodie that will help it stand the test of time. Mid to high 380 g/sqm jersey for an extra luxury touch.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€67.00</retail-price>
+                <renting-price>€10.05</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.27.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.43.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.12.59.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.30.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.38.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Hoodie/Screenshot_2025-03-03_at_19.13.45.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>2</id>
+                <name>Good Times Crewneck Sweater</name>
+                <description>100% organic cotton 230gsm. \nLoopback fleece \nScreen printed. Acid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.31.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.41.png</image>
+                    <image>../images/clothes/Male/Mustique/Sweaters/Good Times Crewneck Sweater/Screenshot_2025-03-04_at_15.21.50.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+        </sweaters>
+        <tshirts>
+            <item>
+                <id>12</id>
+                <name>Long Sleeve Striped T-Shirt</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€54.00</retail-price>
+                <renting-price>€10.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.40.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>33</id>
+                <name>ISTO x lts</name>
+                <description>The Heavyweight T-Shirt embodies the perfect blend between a more relaxed (yet still a classic) fit and comfortable style. Crafted from a heavy 270 g/sqm Jersey composed of 100% Organic Cotton, this time it features the coolest print designed by Portuguese illustrator Lourenço Providência, a visual thinker and peace maker — there's nothing quite like the absolute peace we felt when discovering his work through minimalist, understated yet highly conversational artwork. Explore a collection of exclusive line illustrations inspired by the harmony between humans and nature.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€55.00</retail-price>
+                <renting-price>€11.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.22.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.48.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.56.58.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_16.57.08.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.15.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.28.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/ISTO x lts/Screenshot_2025-03-03_at_18.21.47.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>6</id>
+                <name>Heat Waves T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. \n1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>9</id>
+                <name>Tropical T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. 1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest and back \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.39.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.53.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.24.59.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.08.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Tropical T-Shirt/Screenshot_2025-03-04_at_15.25.28.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+        </tshirts>
+        <shorts>
+            <item>
+                <id>21</id>
+                <name>Curduroy Shorts</name>
+                <description>Are you looking for versatility? Maybe you want a pair of shorts that you can wear to the beach and then to the beach club afterward? Well, meet the Corduroy Shorts you will wear all summer long. Made with organic cotton, they have an intentionally oversized fit for a more relaxed look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€85.00</retail-price>
+                <renting-price>€12.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.48.47.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.48.55.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.10.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.18.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.43.png</image>
+                    <image>../images/clothes/Male/ISTO/Shorts/Curduroy Shorts/Screenshot_2025-03-03_at_18.49.57.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </shorts>
+        <pants>
+            <item>
+                <id>3</id>
+                <name>PANTS CORDS MECCA</name>
+                <description> We love corduroy's durability and warmth, so we've tailored our pants to be comfortable and versatile. Ideal for colder days, these pants add interest and texture to any occasion. With an elastic waist, the pants have a tapered fit, complete with two side and two back pockets.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€88.80</retail-price>
+                <renting-price>€13.32</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.07.png</image>
+                    <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.15.png</image>
+                    <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.46.35.png</image>
+                    <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.26.png</image>
+                    <image>../images/clothes/Male/+351/Pants/PANTS CORDS MECCA/Screenshot_2025-03-03_at_20.47.40.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>13</id>
+                <name>Denim Trousers</name>
+                <description>Composed of a 12 3/4 Oz Italian organic cotton selvedge denim woven on rare shuttle looms from Candiani, these high-density jeans create a more straightforward, clean and sophisticated look. An extremely soft yet durable fabric that makes it ideal for a timeless piece.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.30.51.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.31.14.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.20.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.33.47.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.14.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.23.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.31.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Denim Trousers/Screenshot_2025-03-03_at_18.34.43.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </pants>
+        <hats>
+            <item>
+                <id>3</id>
+                <name>Blue Chair Beige Hat</name>
+                <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/Blue Chair Beige Hat/Screenshot_2025-03-03_at_19.45.27.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </hats>
+        <accessories>
+            <item>
+                <id>1</id>
+                <name>Essential Knitted Scarf</name>
+                <description>Keep yourself warm from the subtle breeze.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€34.50</retail-price>
+                <renting-price>€6.90</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.45.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.55.55.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.18.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Essential Knitted Scarf/Screenshot_2025-03-04_at_15.56.41.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+    <bundle type="spring" id="3">
+        <sweaters>
+            <item>
+                <id>8</id>
+                <name>Hoodie Cru</name>
+                <description>Cut from 100% organic Plush cotton, our hoodie is the perfect piece to wear after a late surf session...</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€130.00</retail-price>
+                <renting-price>€19.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.05.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.16.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.26.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.39.47.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Hoodie Cru/Screenshot_2025-03-03_at_20.40.04.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>26</id>
+                <name>Cotton Sweater</name>
+                <description>Made with best-in-class 100% organic cotton from Italy, this sweater is carefully knitted at our specialized knitwear Portuguese supplier Orfama. With a half-cardigan fit and soft hand feel, it is the perfect staple to cozy you up 365 days a year.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€145.00</retail-price>
+                <renting-price>€21.75</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.19.55.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.20.04.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.27.26.png</image>
+                    <image>../images/clothes/Male/ISTO/Sweaters/Cotton Sweater/Screenshot_2025-03-03_at_18.27.43.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>9</id>
+                <name>Sweatshirt Zip Stoned</name>
+                <description>We love spending our days in our sweatshirts, which is why we added a zipper to make this piece even more versatile while also keeping its iconic design and function. Cut from medium-weight cotton, this piece features an inside-out section for added comfort and warmth.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€87.00</retail-price>
+                <renting-price>€13.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.50.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.30.56.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.14.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.27.png</image>
+                    <image>../images/clothes/Male/+351/Sweaters/Sweatshirt Zip Stoned/Screenshot_2025-03-03_at_20.31.38.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </sweaters>
+        <tshirts>
+            <item>
+                <id>31</id>
+                <name>Classic T-Shirt</name>
+                <description>The Organic Cotton used in the production of this Classic T-Shirt is GOTS certified. The Global Organic Textile Standard (GOTS) is the worldwide leading textile processing standard for organic fibres, including ecological and social criteria, backed up by independent third-party certification of the entire textile supply chain.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€40.00</retail-price>
+                <renting-price>€8.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.01.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.25.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.03.37.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.04.png</image>
+                    <image>../images/clothes/Male/ISTO/T-shirts/Classic T-Shirt/Screenshot_2025-03-03_at_17.04.38.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+            <item>
+                <id>6</id>
+                <name>Heat Waves T-Shirt</name>
+                <description>100% cotton jersey 190 gsm. \n1x1 ribbed collar \nUnisex. Oversize fit - longer sleeve, wider body Graphic screen-printed on chest \nAcid washed \nMade in Portugal</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>0.00</retail-price>
+                <renting-price>0.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.07.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.11.png</image>
+                    <image>../images/clothes/Male/Mustique/T-Shirts/Heat Waves T-Shirt/Screenshot_2025-03-04_at_15.28.16.png</image>
+                </images>
+                <brand>Mustique</brand>
+            </item>
+            <item>
+                <id>11</id>
+                <name>LONG SLEEVE TERRY STONED</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€57.00</retail-price>
+                <renting-price>€11.40</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.43.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.26.52.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.37.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/LONG SLEEVE TERRY STONED/Screenshot_2025-03-03_at_20.27.55.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+            <item>
+                <id>12</id>
+                <name>Long Sleeve Striped T-Shirt</name>
+                <description>Dive into style with our Long Sleeve Stripes Black/Off-White Shark. Featuring bold stripes and unique shark prints—a low-key front detail and a standout graphic on the back. Made from premium Portuguese cotton, it's designed for comfort and durability. Pair it with jeans or layer it up for a laid-back look.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€54.00</retail-price>
+                <renting-price>€10.80</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.40.png</image>
+                    <image>../images/clothes/Male/+351/T-Shirts/Long Sleeve Striped T-Shirt/Screenshot_2025-03-03_at_20.25.47.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </tshirts>
+        <shorts>
+            <item>
+                <id>7</id>
+                <name>WALKSHORTS LEOPARD GREEN</name>
+                <description>comfy, stylish, sustainable</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€90.00</retail-price>
+                <renting-price>€13.50</renting-price>
+                <images>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.31.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.41.png</image>
+                    <image>../images/clothes/Male/+351/Shorts/WALKSHORTS LEOPARD GREEN/Screenshot_2025-03-03_at_20.51.51.png</image>
+                </images>
+                <brand>+351</brand>
+            </item>
+        </shorts>
+        <pants>
+            <item>
+                <id>1</id>
+                <name>Sweatpants</name>
+                <description>comfy and sustainable.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€80.00</retail-price>
+                <renting-price>€12.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.31.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.35.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.40.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.46.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.49.png</image>
+                    <image>../images/clothes/Male/Barrio Santo/Pants/Sweatpants/Screenshot_2025-03-04_at_17.13.55.png</image>
+                </images>
+                <brand>Barrio Santo</brand>
+            </item>
+            <item>
+                <id>15</id>
+                <name>Wool Trousers</name>
+                <description>Tailored warmth, fully regenerated. Meet the Wool Trousers - these pleated, tapered-fit trousers are made from 100% Recycled Wool (MWool® by Manteco). What this means? You'll get all the warmth and comfort of virgin wool but with a fraction of the environmental impact. At 400 g/sqm, they strike the perfect balance between heft and ease, ideal for colder days. And the cherry on top: they can be paired with our Wool Jackets. Same fabric, same tone, same high-quality without compromising on price point.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€180.00</retail-price>
+                <renting-price>€18.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.40.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.48.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.35.57.png</image>
+                    <image>../images/clothes/Male/ISTO/Pants/Wool Trousers/Screenshot_2025-03-03_at_18.36.05.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </pants>
+        <hats>
+            <item>
+                <id>7</id>
+                <name>White Chair Blue Hat</name>
+                <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€50.00</retail-price>
+                <renting-price>€5.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/ISTO/Hats/White Chair Blue Hat/Screenshot_2025-03-03_at_19.46.00.png</image>
+                </images>
+                <brand>ISTO</brand>
+            </item>
+        </hats>
+        <accessories>
+            <item>
+                <id>3</id>
+                <name>Upcycled Bandana</name>
+                <description>Keep the style.</description>
+                <sizes>
+                    <size>S</size>
+                    <size>M</size>
+                    <size>L</size>
+                </sizes>
+                <retail-price>€35.00</retail-price>
+                <renting-price>€7.00</renting-price>
+                <images>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.57.59.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.58.04.png</image>
+                    <image>../images/clothes/Male/Wetheknot/Accessories/Upcycled Bandana/Screenshot_2025-03-04_at_15.59.19.png</image>
+                </images>
+                <brand>Wetheknot</brand>
+            </item>
+        </accessories>
+    </bundle>
+</clothing_bundles>

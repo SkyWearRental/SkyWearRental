@@ -2,7 +2,7 @@ import {showModal, closeModal} from "../utilities/utilities.js";
 
 const modal = document.getElementById("email-modal");
 
-export function initEmailJS(){
+export async function initEmailJS(){
     emailjs.init("EEjH3nxJxcXECaWFW");
     document.getElementById("confirm-order-btn").addEventListener("click", () => showModal(modal));
     document.getElementById("email-form").addEventListener("submit", (event) => handleSubmission(event));
@@ -70,7 +70,7 @@ function getOrderDetails(){
             Destination: ${destination}
             Cart Items:
             ${cartDetails}
-            Total Price: ${totalPrice}$
+            Total Price: ${parseFloat(totalPrice.toFixed(2))}$
         `;
     }
 

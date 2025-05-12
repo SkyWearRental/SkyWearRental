@@ -1,6 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
 <clothing>
     <brands>
+        <brand name="ISTO">
+            <type name="Hats">
+                <item>
+                    <id>2</id>
+                    <name>Beer Pint Beige Hat</name>
+                    <description> Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€50.00</retail-price>
+                    <renting-price>€5.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Beer Pint Beige Hat/Screenshot_2025-03-03_at_19.45.42.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>3</id>
+                    <name>Blue Chair Beige Hat</name>
+                    <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€50.00</retail-price>
+                    <renting-price>€5.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Blue Chair Beige Hat/Screenshot_2025-03-03_at_19.45.27.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>4</id>
+                    <name>ISTO Hat</name>
+                    <description>Made with a classic and relaxed silhouette, our Cap is cut from the same Work Jacket fabric for optimal consumption. Same production batch color. Same peachy touch. It has a gently curved peak and, well, our first visible logo. Let's use it properly and take good care.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€45.00</retail-price>
+                    <renting-price>€4.50</renting-price>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.46.50.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.47.00.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/ISTO Hat/Screenshot_2025-03-03_at_19.47.11.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>5</id>
+                    <name>Merino Wool Beanie</name>
+                    <description>Knitted from 100% Extra-Fine Merino Wool, this double folded, extra-soft yet structured Beanie is crafted from luxury Italian yarns and carefully knitted by our portuguese specialist Orfama. Everything to keep you warm on that winter night or stylish at the party. Mulesing-free.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€50.00</retail-price>
+                    <renting-price>€5.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.25.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.35.png</image>
+                        <image>../images/clothes/Male/ISTO/Hats/Merino Wool Beanie/Screenshot_2025-03-03_at_19.48.43.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>6</id>
+                    <name>Seagul Blue Hat</name>
+                    <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€50.00</retail-price>
+                    <renting-price>€5.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/Seagul Blue Hat/Screenshot_2025-03-03_at_19.45.50.png</image>
+                    </images>
+                </item>
+                <item>
+                    <id>7</id>
+                    <name>White Chair Blue Hat</name>
+                    <description>Made with a classic and relaxed silhouette, our Denim Cap is cut from the same Denim Work Jacket and Jeans Undyed fabric for optimal consumption. It does not follow a dyeing process, meaning any harmful chemicals, no colors, not even natural dyes. It has a gently curved peak and comes with a fun twist embroidered.</description>
+                    <sizes>
+                        <size>S</size>
+                        <size>M</size>
+                        <size>L</size>
+                    </sizes>
+                    <retail-price>€50.00</retail-price>
+                    <renting-price>€5.00</renting-price>
+                    <images>
+                        <image>../images/clothes/Male/ISTO/Hats/White Chair Blue Hat/Screenshot_2025-03-03_at_19.46.00.png</image>
+                    </images>
+                </item>
+            </type>
+        </brand>
         <brand name="+351">
             <type name="Jackets">
                 <item>
@@ -320,7 +418,7 @@
                     </images>
                 </item>
             </type>
-            <type name="Swimsuits">
+            <type name="Swimwear">
                 <item>
                     <id>7</id>
                     <name>Light Flowers Bikini</name>
@@ -333,19 +431,19 @@
                     <retail-price>€12.60</retail-price>
                     <renting-price>€2.52</renting-price>
                     <images>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.35.43.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.04.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.13.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.28.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.13.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.18.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.23.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.35.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.35.43.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.04.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.13.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.36.28.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.13.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.18.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.23.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Bikini/Screenshot_2025-03-04_at_15.37.35.png</image>
                     </images>
                 </item>
                 <item>
                     <id>8</id>
-                    <name>Light Flowers Swimsuit</name>
+                    <name>Light Flowers Swimwear</name>
                     <description>82% recycled polyester, 18% elastane \nTrue to size \nMade in Portugal</description>
                     <sizes>
                         <size>S</size>
@@ -355,10 +453,10 @@
                     <retail-price>€25.80</retail-price>
                     <renting-price>€5.16</renting-price>
                     <images>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.32.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.51.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.00.png</image>
-                        <image>../images/clothes/Female/Mustique/Swimsuits/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.08.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.32.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.39.51.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.00.png</image>
+                        <image>../images/clothes/Female/Mustique/Swimwear/Light Flowers Swimsuit/Screenshot_2025-03-04_at_15.40.08.png</image>
                     </images>
                 </item>
             </type>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="../images/logo/logo.png">
+    <title>SkyWear Rental</title>
+    <link rel="stylesheet" href="../css/start.css">
+    <link rel="stylesheet" href="../css/auto-complete.css">
+    <script src="https://kit.fontawesome.com/0d045f7163.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header class="main-header">
+        <img class="logo" src="../images/logo/logo_big.png" alt="SkyWear Logo">
+    </header>
+
+    <main class="search-section">
+        <form id="destination-form" class="search-form">
+            <div class="input-wrapper">
+                <input class="form-input destination-input" id="destination-name" type="text" placeholder="Ex: Lisbon" autocomplete="off" required>
+                <div id="autocomplete-list" class="autocomplete-list"></div>
+            </div>
+            <button type="button" class="submit-button" id="submit-button">Next</button>
+        </form>
+    </main>
+
+    <main class="top-destinations-section">
+        <h2 class="section-title">Top Destinations</h2>
+        <div class="top-destinations-buttons">
+            <div class="top-destination-item">
+                <button class="top-destination-button" id="lisbon-button"></button>
+                <span class="button-label">Lisbon</span>
+            </div>
+            <div class="top-destination-item">
+                <button class="top-destination-button" id="paris-button" disabled>
+                    <span class="coming-soon-text">
+                        <span>Coming</span>
+                        <span>soon...</span>
+                    </span>
+                </button>
+                <span class="button-label">Paris</span>
+            </div>
+            <div class="top-destination-item">
+                <button class="top-destination-button" id="berlin-button" disabled>
+                    <span class="coming-soon-text">
+                        <span>Coming</span>
+                        <span>soon...</span>
+                    </span>
+                </button>
+                <span class="button-label">Berlin</span>
+            </div>
+            <div class="top-destination-item">
+                <button class="top-destination-button" id="rome-button" disabled>
+                    <span class="coming-soon-text">
+                        <span>Coming</span>
+                        <span>soon...</span>
+                    </span>
+                </button>
+                <span class="button-label">Rome</span>
+            </div>
+        </div>
+    </main>
+
+    <script src="../js/start/start.js"></script>
+</body>
+</html>

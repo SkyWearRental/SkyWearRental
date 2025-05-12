@@ -15,9 +15,12 @@
     <div class="header-container">
         <header>
             <div class="logo-container">
-                <img class="logo" id="logo" src="../images/logo/logo.png">
+                <img class="logo" id="logo" src="../images/logo/logo_big.png">
             </div>
             <div class="icons-container">
+                <div class="total-price-container">
+                    <span id="total-price"><strong>Total:</strong> € 0.00 / week</span>
+                </div>
                  <div class="suitcase-container">
                     <i id="suitcase-icon" class="fa-solid fa-suitcase-rolling"></i>
                     <div class="counter" id="counter">0</div>
@@ -25,37 +28,64 @@
             </div>
         </header>
 
-        <div class="sub-header" id="dates-sub-header">
-            <button id="filters-btn"><i class="fa-solid fa-sliders"></i></button>
-            <div class="dates-container">
-                <div class="date-box" id="arrival-box">
-                    <i class="fa-solid fa-plane-arrival"></i>
-                    <span class="date-value" id="arrival-date"></span>
-                </div>
-                <div class="date-box" id="retrieval-box">
-                    <i class="fa-solid fa-plane-departure"></i>
-                    <span class="date-value" id="retrieval-date"></span>
+        <div class="sub-header">
+            <div class="sub-header-left">
+                <button id="filters-btn"><i class="fa-solid fa-sliders"></i></button>
+                <button class="sub-header-btn active" id="items-btn">Items</button>
+                <button class="sub-header-btn" id="bundles-btn">Bundles</button>
+            </div>
+
+            <div class="search-bar-wrapper">
+                <div class="search-bar">
+                    <div class="search-segment" id="location-box">
+                        <span class="segment-label"><i class="fa-solid fa-location-dot"></i> Where</span>
+                        <span class="segment-value" id="location-value" data-placeholder="Wherever"></span>
+                    </div>
+                    <div class="search-segment" id="arrival-box">
+                        <span class="segment-label"><i class="fa-solid fa-plane-arrival"></i> When</span>
+                        <span class="segment-value" id="arrival-date" data-placeholder="Whenever"></span>
+                    </div>
+                    <div class="search-segment" id="retrieval-box">
+                        <span class="segment-label"><i class="fa-solid fa-plane-departure"></i> When</span>
+                        <span class="segment-value" id="retrieval-date" data-placeholder="Whenever"></span>
+                    </div>
+                    <button class="search-button">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </button>
                 </div>
             </div>
-            <div></div>
+
+            <div class="sub-header-right"></div>
         </div>
     </div>
 
     <body-container>
+        <div id="gender-selection">
+            <div class="gender-button-wrapper">
+                <button id="male-btn" class="gender-btn male">
+                    <span class="gender-label">Male</span>
+                </button>
+                <button id="female-btn" class="gender-btn female">
+                    <span class="gender-label">Female</span>
+                </button>
+            </div>
+        </div>
+          
+
         <div class="sidebar">
             <div class="filters-container">
                 <div class="gender">
                     <h3>gender</h3>
                     <div class="gender-buttons">
-                        <button id="male-btn" class="active">Male</button>
-                        <button id="female-btn">Female</button>
+                        <button id="male-filter">Male</button>
+                        <button id="female-filter">Female</button>
                     </div>
                 </div>
                 <div class="order-by">
                     <h3>order by</h3>
                     <div class="order-buttons">
-                        <button class="active" id="brand-btn">Brands</button>
-                        <button id="type-btn">Clothing Type</button>
+                        <button id="brand-btn">Brands</button>
+                        <button class="active" id="type-btn">Clothing Type</button>
                     </div>
                 </div>
     

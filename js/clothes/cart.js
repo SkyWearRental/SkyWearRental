@@ -1,9 +1,10 @@
 import {closeModal, showModal, createElement} from "../utilities/utilities.js";
 
 let cart = [];
+let totalOrderPrice = 0;
 const modal = document.getElementById("cart-modal");
 
-export function initCart(){
+export async function initCart(){
     loadCart();
     document.getElementById("suitcase-icon").addEventListener("click", toggleCartModal);
     document.getElementById("close-cross-cart").addEventListener("click", ()=> closeModal(modal));
@@ -18,6 +19,11 @@ function loadCart(){
     const savedCart = localStorage.getItem("cart");
     if(savedCart){
         cart = JSON.parse(savedCart);
+        totalOrderPrice = cart.reduce((sum, item) => {
+            const price = parseFloat(item.price.replace(/[^\d.]/g, ""));
+            return sum + (isNaN(price) ? 0 : price);
+        }, 0);
+        document.getElementById("total-price").innerHTML = `<strong>Total:</strong> € ${totalOrderPrice.toFixed(2)} / week`
     }
     updateCartUI();
 }
@@ -26,7 +32,7 @@ function saveCart(){
     localStorage.setItem("cart", JSON.stringify(cart));
 }
 
-export function addToCart(item, size){
+export function addToCart(item, size, bundlePrice){
     const itemName = item.querySelector("name").textContent;
     const itemBrand = item.closest("brand") ? item.closest("brand").getAttribute("name") : "Unknown Brand";
     const itemId = item.querySelector("id").textContent.trim();
@@ -35,6 +41,19 @@ export function addToCart(item, size){
     const rentalPrice = item.querySelector("renting-price").textContent;
 
     cart.push({type: itemType, brand: itemBrand, id: itemId, name: itemName, size: size, image: mainImage, price: rentalPrice});
+    
+    if(!bundlePrice){
+        const priceNumber = parseFloat(rentalPrice.replace(/[^\d.]/g, ""));
+        if(!isNaN(priceNumber)){
+            totalOrderPrice += priceNumber;
+        }
+    }
+    else{
+        totalOrderPrice += bundlePrice;
+    }
+    
+    document.getElementById("total-price").innerHTML = `<strong>Total: </strong> € ${totalOrderPrice.toFixed(2)} / week`
+
     saveCart();
     updateCartUI();
 }
@@ -47,7 +66,17 @@ function removeFromCart(itemType, itemBrand, itemId, size){
 }
 
 function removeItemFromCart(index){
+    const removedItem = cart[index];
+
+    const priceNumber = parseFloat(removedItem.price.replace(/[^\d.]/g, ""));
+    if (!isNaN(priceNumber)) {
+        totalOrderPrice -= priceNumber;
+    }
+
     cart.splice(index, 1);
+    
+    document.getElementById("total-price").innerHTML = `<strong>Total: </strong> € ${totalOrderPrice.toFixed(2)} / week`;
+    
     saveCart();
     updateCartUI();
     renderCartItems();

@@ -1,4 +1,4 @@
-import {isActive, createElement} from "../utilities/utilities.js";
+import {isActive, createElement, emptyPage} from "../utilities/utilities.js";
 import { populateClothingRows, populateClothingRowsByType } from "./show_clothes.js";
 
 var activeElements = [];
@@ -11,8 +11,8 @@ const filtersBtn = document.getElementById("filters-btn");
 const sidebar = document.querySelector(".sidebar");
 
 // Gender filters
-const maleBtn = document.getElementById("male-btn");
-const femaleBtn = document.getElementById("female-btn");
+const maleBtn = document.getElementById("male-filter");
+const femaleBtn = document.getElementById("female-filter");
 // Order by filters
 const brandBtn = document.getElementById("brand-btn");
 const typeBtn  = document.getElementById("type-btn");
@@ -27,7 +27,7 @@ const overlay = document.getElementById("overlay");
 
 const applyBtn = document.getElementById("apply-filters-btn"); 
 
-export function initFilters(m_xml, f_xml){
+export async function initFilters(m_xml, f_xml){
     male_xml = m_xml;
     female_xml = f_xml;
 
@@ -126,14 +126,6 @@ function getSelectedBrands(breakIndex){
     }
 
     return wantedBrands;
-}
-
-function emptyPage(){
-    const clothingContainer = document.getElementById("clothing-container");
-    const scrollToTopBtn    = document.getElementById("scroll-to-top");
-
-    clothingContainer.innerHTML = "";
-    clothingContainer.appendChild(scrollToTopBtn);
 }
 
 function updateActiveElements(){

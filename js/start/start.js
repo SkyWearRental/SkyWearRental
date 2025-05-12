@@ -3,9 +3,9 @@ document.addEventListener("DOMContentLoaded", async() =>{
     const destinations = await loadDestinations();
 
     // UI Elements
-    const destinationInput     = document.getElementById("destination-name");
-    const submitButton         = document.getElementById("submit-button");
-    const link         = document.getElementById("link");
+    const destinationInput = document.getElementById("destination-name");
+    const submitButton     = document.getElementById("submit-button");
+    const lisbonButton     = document.getElementById("lisbon-button");
 
     // setting the starting state of the page
     getStartingState();
@@ -14,13 +14,13 @@ document.addEventListener("DOMContentLoaded", async() =>{
     destinationInput.addEventListener("input", function(){
         const query = this.value.toLowerCase();
         const autoCompleteList = document.getElementById("autocomplete-list");
-        const warning = document.getElementById("warning");
+        const input = document.getElementById("destination-name");
 
         autoCompleteList.innerHTML = "";
-        warning.style.display = "none";
+        reroundCorners(input);
 
         if(!query) return;
-        handleQuery(query, warning, autoCompleteList);
+        handleQuery(query, input, autoCompleteList);
 
         setButton();
     });
@@ -28,20 +28,18 @@ document.addEventListener("DOMContentLoaded", async() =>{
     this.addEventListener("click", (event) => {
         if(event.target !== destinationInput){
             document.getElementById("autocomplete-list").innerHTML = "";
+            reroundCorners(document.getElementById("destination-name"));
         }
-    });
-
-    // Add link to go to flight number
-    link.addEventListener("click", ()=>{
-        saveInputs();
-        window.location.href = "flight-number.html";
     });
 
     submitButton.addEventListener("click", ()=>{
         saveInputs();
-        localStorage.setItem("flightNumberGoing", null);
-        localStorage.setItem("flightNumberBack", null);
-        window.location.href = "datetimes.html";
+        window.location.href = "clothes.html";
+    });
+
+    lisbonButton.addEventListener("click", ()=>{
+        localStorage.setItem("destinationName", "Lisbon");
+        window.location.href = "clothes.html";
     });
 
     function getStartingState(){
@@ -94,15 +92,15 @@ document.addEventListener("DOMContentLoaded", async() =>{
     }
 
     // AutoComplete
-    function handleQuery(query, warning, autoCompleteList){
+    function handleQuery(query, input, autoCompleteList){
         const matches = destinations.filter(dest => dest.city.toLowerCase().startsWith(query));
+
+        unroundCorners(input);
 
         if(matches.length === 0){
             autoCompleteList.innerHTML = `<div class="autocomplete-item">Sorry, we don't have clothes there yet...</div>`;
-            warning.style.display = "block";
         }
         else{
-            warning.style.display = "none";
             matches.forEach(dest => {
                 let item = document.createElement("div");
                 item.classList.add("autocomplete-item");
@@ -110,13 +108,23 @@ document.addEventListener("DOMContentLoaded", async() =>{
                 item.addEventListener("click", () => {
                     destinationInput.value = dest.city;
                     autoCompleteList.innerHTML = "";
-                    
+                    reroundCorners(input);
                     destinationInput.dispatchEvent(new Event("input", {bubbles: true}));
                 });
 
                 autoCompleteList.appendChild(item);
             });
         }
+    }
+
+    function unroundCorners(input){
+        input.style.borderBottomLeftRadius = "0";
+        input.style.borderBottomRightRadius = "0";
+    }
+
+    function reroundCorners(input){
+        input.style.borderBottomLeftRadius = "15px";
+        input.style.borderBottomRightRadius = "15px";
     }
 
     // Available Destinations

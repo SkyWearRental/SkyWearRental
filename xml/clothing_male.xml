@@ -905,13 +905,13 @@
                     <retail-price>€80.00</retail-price>
                     <renting-price>€8.00</renting-price>
                     <images>
-                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.12.png</image>
-                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.24.png</image>
-                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.30.png</image>
-                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.51.png</image>
-                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.09.59.png</image>
-                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.10.10.png</image>
-                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shirts/Screenshot_2025-03-03_at_19.10.18.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shorts/Screenshot_2025-03-03_at_19.09.12.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shorts/Screenshot_2025-03-03_at_19.09.24.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shorts/Screenshot_2025-03-03_at_19.09.30.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shorts/Screenshot_2025-03-03_at_19.09.51.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shorts/Screenshot_2025-03-03_at_19.09.59.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shorts/Screenshot_2025-03-03_at_19.10.10.png</image>
+                        <image>../images/clothes/Male/ISTO/Swimwear/Swim shorts/Screenshot_2025-03-03_at_19.10.18.png</image>
                     </images>
                 </item>
             </type>
@@ -1101,7 +1101,7 @@
                     </images>
                 </item>
             </type>
-            <type name="Swimsuits">
+            <type name="Swimwear">
                 <item>
                     <id>4</id>
                     <name>Daylight Striped Swim Trunks</name>
@@ -1114,10 +1114,10 @@
                     <retail-price>€27.00</retail-price>
                     <renting-price>€5.40</renting-price>
                     <images>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.10.png</image>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.17.png</image>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.22.png</image>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.30.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.10.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.17.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.22.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Daylight Striped Swim Trunks/Screenshot_2025-03-04_at_15.38.30.png</image>
                     </images>
                 </item>
                 <item>
@@ -1132,10 +1132,10 @@
                     <retail-price>€27.00</retail-price>
                     <renting-price>€5.40</renting-price>
                     <images>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.38.46.png</image>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.38.54.png</image>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.39.02.png</image>
-                        <image>../images/clothes/Male/Mustique/Swimsuits/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.39.09.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.38.46.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.38.54.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.39.02.png</image>
+                        <image>../images/clothes/Male/Mustique/Swimwear/Sunny Swim Trunks/Screenshot_2025-03-04_at_15.39.09.png</image>
                     </images>
                 </item>
             </type>
